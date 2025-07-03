@@ -10,10 +10,12 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/amiri": "^0.4.0",
     "expo": "~53.0.16",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
-    "react-native": "0.79.5"
+    "react-native": "0.79.5",
+    "react-native-paper": "^5.14.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
