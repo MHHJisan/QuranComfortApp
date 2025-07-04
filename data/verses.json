@@ -1,0 +1,1188 @@
+{
+  "happy": [
+    {
+      "arabic": "قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَٰلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا يَجْمَعُونَ",
+      "bangla": "বলুন, আল্লাহর অনুগ্রহে ও তাঁর রহমতে; সুতরাং তাঁরা যেন এ নিয়েই খুশি হয়",
+      "english": "Say, 'In the bounty of Allah and in His mercy - in that let them rejoice'",
+      "reference": "Surah Yunus (10:58)"
+    },
+    {
+      "arabic": "فَرِحِينَ بِمَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ",
+      "bangla": "আল্লাহ নিজ অনুগ্রহে যা দিয়েছেন, তা নিয়ে তারা আনন্দিত",
+      "english": "Rejoicing in what Allah has given them of His bounty",
+      "reference": "Surah Aal-E-Imran (3:170)"
+    }
+  ],
+  "forgiveness": [
+    {
+      "arabic": "وَإِنِّي لَغَفَّارٌ لِّمَن تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ اهْتَدَىٰ",
+      "bangla": "আমি ক্ষমাকারী তাদের জন্য যারা তওবা করে, বিশ্বাস স্থাপন করে ও সৎকর্ম করে",
+      "english": "Indeed, I am Forgiving to whoever repents, believes, and does righteousness",
+      "reference": "Surah Taha (20:82)"
+    },
+    {
+      "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+      "bangla": "বলুন, হে আমার বান্দাগণ! যারা নিজেদের প্রতি বাড়াবাড়ি করেছ, তোমরা আল্লাহর রহমত থেকে নিরাশ হয়ো না। নিশ্চয় আল্লাহ সমস্ত গুনাহ মাফ করে দেন। নিশ্চয় তিনি ক্ষমাশীল, পরম দয়ালু।",
+      "english": "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'",
+      "reference": "Surah Az-Zumar (39:53)"
+    },
+    {
+      "arabic": "وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا",
+      "bangla": "আর যে কেউ মন্দ কাজ করে অথবা নিজের প্রতি জুলুম করে, এরপর আল্লাহর কাছে ক্ষমা প্রার্থনা করে, সে আল্লাহকে ক্ষমাশীল, দয়ালু পাবে।",
+      "english": "And whoever does a wrong or wrongs himself but then seeks forgiveness of Allah will find Allah Forgiving and Merciful.",
+      "reference": "Surah An-Nisa (4:110)"
+    },
+    {
+      "arabic": "وَاسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ ۚ إِنَّ رَبِّي رَحِيمٌ وَدُودٌ",
+      "bangla": "আর তোমরা তোমাদের রবের কাছে ক্ষমা প্রার্থনা কর, অতঃপর তাঁর দিকেই ফিরে আস। নিশ্চয় আমার রব পরম দয়ালু, অতি স্নেহশীল।",
+      "english": "And ask forgiveness of your Lord and then repent to Him. Indeed, my Lord is Merciful and Loving.",
+      "reference": "Surah Hud (11:90)"
+    },
+    {
+      "arabic": "وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ",
+      "bangla": "আর যারা যখন কোনো অশ্লীল কাজ করে ফেলে অথবা নিজেদের প্রতি জুলুম করে, তখন আল্লাহকে স্মরণ করে এবং নিজেদের গুনাহের জন্য ক্ষমা প্রার্থনা করে। আল্লাহ ছাড়া কে গুনাহ ক্ষমা করবে? তারা জেনে শুনে জুলুমের উপর অটল থাকে না।",
+      "english": "And those who, when they commit an immorality or wrong themselves, remember Allah and seek forgiveness for their sins - and who can forgive sins except Allah? - and [who] do not persist in what they have done while they know.",
+      "reference": "Surah Aal-E-Imran (3:135)"
+    },
+    {
+      "arabic": "وَأَنِ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ يُمَتِّعْكُم مَّتَاعًا حَسَنًا إِلَىٰ أَجَلٍ مُّسَمًّى وَيُؤْتِ كُلَّ ذِي فَضْلٍ فَضْلَهُ",
+      "bangla": "এবং তোমরা তোমাদের রবের কাছে ক্ষমা প্রার্থনা কর, তারপর তাঁর দিকে ফিরে আস, তিনি তোমাদেরকে একটি নির্দিষ্ট সময় পর্যন্ত উত্তম জীবনোপকরণ দেবেন এবং প্রত্যেক অনুগ্রহপ্রাপ্তকে তার অনুগ্রহ দেবেন।",
+      "english": "And [saying], 'Seek forgiveness of your Lord and repent to Him, [and] He will let you enjoy a good provision for a specified term and give every doer of favor his favor.'",
+      "reference": "Surah Hud (11:3)"
+    },
+    {
+      "arabic": "فَاعْلَمْ أَنَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ وَاسْتَغْفِرْ لِذَنبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ",
+      "bangla": "অতএব, জেনে রাখুন যে, আল্লাহ ছাড়া কোনো ইলাহ নেই এবং তাঁর কাছে ক্ষমা প্রার্থনা করুন আপনার পাপের জন্য এবং মুমিন পুরুষ ও মুমিন নারীদের পাপের জন্যও।",
+      "english": "So know, [O Muhammad], that there is no deity except Allah and ask forgiveness for your sin and for the believing men and believing women.",
+      "reference": "Surah Muhammad (47:19)"
+    },
+    {
+      "arabic": "إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ ۗ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا",
+      "bangla": "কিন্তু যারা তওবা করে, ঈমান আনে এবং সৎকাজ করে, আল্লাহ তাদের গুনাহগুলোকে নেকি দ্বারা পরিবর্তন করে দেবেন। আর আল্লাহ অতি ক্ষমাশীল, পরম দয়ালু।",
+      "english": "Except for those who repent, believe and do righteous work. For them Allah will replace their evil deeds with good. And ever is Allah Forgiving and Merciful.",
+      "reference": "Surah Al-Furqan (25:70)"
+    },
+    {
+      "arabic": "وَتُوبُوا إِلَى اللَّهِ جَمِيعًا أَيُّهَا الْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "bangla": "হে মুমিনগণ! তোমরা সবাই আল্লাহর কাছে তওবা করো, যাতে তোমরা সফলকাম হও।",
+      "english": "And turn to Allah in repentance, all of you, O believers, that you might succeed.",
+      "reference": "Surah An-Nur (24:31)"
+    },
+    {
+      "arabic": "وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ",
+      "bangla": "আর যারা যখন কোনো অশ্লীল কাজ করে ফেলে অথবা নিজেদের প্রতি জুলুম করে, তখন আল্লাহকে স্মরণ করে এবং নিজেদের গুনাহের জন্য ক্ষমা প্রার্থনা করে। আল্লাহ ছাড়া কে গুনাহ ক্ষমা করবে? তারা জেনে শুনে জুলুমের উপর অটল থাকে না।",
+      "english": "And those who, when they commit an immorality or wrong themselves, remember Allah and seek forgiveness for their sins - and who can forgive sins except Allah? - and [who] do not persist in what they have done while they know.",
+      "reference": "Surah Aal-E-Imran (3:135)"
+    },
+    {
+      "arabic": "رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "bangla": "হে আমাদের রব! আমরা ভুলে গেলে বা ভ্রান্তিতে পড়লে আমাদেরকে পাকড়াও করো না। হে আমাদের রব! আমাদের উপর এমন বোঝা চাপিয়ো না, যেমন চাপিয়েছিলে আমাদের পূর্ববর্তীদের উপর। হে আমাদের রব! আমাদেরকে এমন দায়িত্ব দিও না, যা আমাদের সাধ্যাতীত। আমাদের ক্ষমা করো, আমাদের পাপ মার্জনা করো এবং আমাদের প্রতি দয়া করো। তুমিই আমাদের মালিক, সুতরাং কাফির সম্প্রদায়ের বিরুদ্ধে আমাদেরকে সাহায্য করো।",
+      "english": "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.",
+      "reference": "Surah Al-Baqarah (2:286)"
+    },
+    {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّئَاتِكُمْ وَيُدْخِلَكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ",
+      "bangla": "হে মুমিনগণ! তোমরা আল্লাহর কাছে খাঁটি তওবা করো। আশা করা যায় যে, তোমাদের রব তোমাদের পাপসমূহ মোচন করবেন এবং তোমাদেরকে জান্নাতে দাখিল করবেন, যার তলদেশে নহরসমূহ প্রবাহিত।",
+      "english": "O you who have believed, repent to Allah with sincere repentance. Perhaps your Lord will remove from you your misdeeds and admit you into gardens beneath which rivers flow.",
+      "reference": "Surah At-Tahrim (66:8)"
+    },
+    {
+      "arabic": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَاسْتَغْفِرْ لِذَنبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِالْعَشِيِّ وَالْإِبْكَارِ",
+      "bangla": "অতএব, আপনি ধৈর্য ধারণ করুন, নিশ্চয় আল্লাহর ওয়াদা সত্য। আর আপনার পাপের জন্য ক্ষমা প্রার্থনা করুন এবং সকাল-সন্ধ্যায় আপনার রবের সপ্রশংস পবিত্রতা বর্ণনা করুন।",
+      "english": "So be patient, [O Muhammad]. Indeed, the promise of Allah is truth. And ask forgiveness for your sin and exalt [Allah] with praise of your Lord in the evening and the morning.",
+      "reference": "Surah Ghafir (40:55)"
+    },
+    {
+      "arabic": "وَلَوْ أَنَّهُمْ إِذ ظَّلَمُوا أَنفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا رَّحِيمًا",
+      "bangla": "যদি তারা নিজেদের উপর জুলুম করার পর আপনার কাছে আসত, অতঃপর আল্লাহর কাছে ক্ষমা প্রার্থনা করত এবং রাসূলও তাদের জন্য ক্ষমা প্রার্থনা করতেন, তবে তারা আল্লাহকে তওবা কবুলকারী, দয়ালু পেত।",
+      "english": "And if, when they wronged themselves, they had come to you, [O Muhammad], and asked forgiveness of Allah and the Messenger had asked forgiveness for them, they would have found Allah Accepting of repentance and Merciful.",
+      "reference": "Surah An-Nisa (4:64)"
+    },
+    {
+      "arabic": "وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ ۚ وَمَا كَانَ اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ",
+      "bangla": "আল্লাহ তাদেরকে শাস্তি দেবেন না, যতক্ষণ আপনি তাদের মধ্যে অবস্থান করছেন। আর আল্লাহ তাদেরকে শাস্তি দেবেন না, যতক্ষণ তারা ক্ষমা প্রার্থনা করছে।",
+      "english": "But Allah would not punish them while you, [O Muhammad], are among them, and Allah would not punish them while they seek forgiveness.",
+      "reference": "Surah Al-Anfal (8:33)"
+    },
+    {
+      "arabic": "وَالَّذِينَ جَاءُوا مِن بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَّحِيمٌ",
+      "bangla": "আর যারা তাদের পরে এসেছে, তারা বলে: 'হে আমাদের রব! আমাদেরকে ও আমাদের ভাইদেরকে ক্ষমা করুন, যারা আমাদের পূর্বে ঈমান এনেছে। আর আমাদের অন্তরে মুমিনদের প্রতি কোন বিদ্বেষ রেখো না। হে আমাদের রব! নিশ্চয় আপনি দয়ালু, পরম দয়ালু।'",
+      "english": "And those who came after them say, 'Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.'",
+      "reference": "Surah Al-Hashr (59:10)"
+    }
+  ],
+  "anxious": [
+    {
+      "arabic": "الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+      "bangla": "যারা ঈমান আনে এবং আল্লাহর স্মরণেই যাদের অন্তর প্রশান্তি লাভ করে; জেনে রাখ, আল্লাহর স্মরণেই অন্তরসমূহ শান্তি পায়",
+      "english": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured",
+      "reference": "Surah Ar-Ra'd (13:28)"
+    },
+    {
+      "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+      "bangla": "আর তোমাদের রব বলেছেন, তোমরা আমাকে ডাক, আমি তোমাদের ডাকে সাড়া দেব",
+      "english": "And your Lord says, 'Call upon Me; I will respond to you.'",
+      "reference": "Surah Ghafir (40:60)"
+    },
+    {
+      "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "bangla": "নিশ্চয়ই কষ্টের সঙ্গেই রয়েছে স্বাচ্ছন্দ্য",
+      "english": "Indeed, with hardship [will be] ease",
+      "reference": "Surah Ash-Sharh (94:6)"
+    },
+    {
+      "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا * إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "bangla": "অতএব, নিশ্চয়ই কষ্টের সঙ্গেই স্বাচ্ছন্দ্য আছে * নিশ্চয়ই কষ্টের সঙ্গেই স্বাচ্ছন্দ্য আছে",
+      "english": "For indeed, with hardship will be ease * Indeed, with hardship will be ease",
+      "reference": "Surah Ash-Sharh (94:5-6)"
+    },
+    {
+      "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+      "bangla": "আল্লাহ কাউকে তার সাধ্যের অতীত দায়িত্ব দেন না",
+      "english": "Allah does not burden a soul beyond that it can bear",
+      "reference": "Surah Al-Baqarah (2:286)"
+    },
+    {
+      "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "bangla": "তোমরা দুর্বল হয়ো না এবং দুঃখিত হয়ো না, তোমরাই বিজয়ী হবে যদি তোমরা মুমিন হও",
+      "english": "Do not weaken and do not grieve, and you will be superior if you are [true] believers",
+      "reference": "Surah Aal-E-Imran (3:139)"
+    },
+    {
+      "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "bangla": "নিশ্চয়ই আল্লাহ ধৈর্যশীলদের সাথে রয়েছেন",
+      "english": "Indeed, Allah is with the patient",
+      "reference": "Surah Al-Baqarah (2:153)"
+    },
+    {
+      "arabic": "وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "bangla": "এবং হতে পারে তোমরা কোনো জিনিসকে অপছন্দ কর, অথচ তা তোমাদের জন্য কল্যাণকর; এবং হতে পারে তোমরা কোনো জিনিসকে পছন্দ কর, অথচ তা তোমাদের জন্য অকল্যাণকর। আল্লাহ জানেন, আর তোমরা জান না",
+      "english": "But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah knows, while you know not",
+      "reference": "Surah Al-Baqarah (2:216)"
+    },
+    {
+      "arabic": "قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا هُوَ مَوْلَانَا ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+      "bangla": "বলুন, আল্লাহ আমাদের জন্য যা লিখে রেখেছেন, তা ছাড়া অন্য কিছুই আমাদের স্পর্শ করবে না। তিনি আমাদের অভিভাবক। মুমিনদের আল্লাহর উপরই ভরসা করা উচিত",
+      "english": "Say, 'Never will we be struck except by what Allah has decreed for us; He is our protector.' And upon Allah let the believers rely",
+      "reference": "Surah At-Tawbah (9:51)"
+    },
+    {
+      "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+      "bangla": "যে ব্যক্তি আল্লাহর উপর ভরসা করে, আল্লাহ তার জন্য যথেষ্ট",
+      "english": "And whoever relies upon Allah - then He is sufficient for him",
+      "reference": "Surah At-Talaq (65:3)"
+    },
+    {
+      "arabic": "رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+      "bangla": "হে আমাদের রব! আমরা তোমারই উপর ভরসা করলাম, তোমারই দিকে মুখ ফিরালাম এবং তোমারই দিকে প্রত্যাবর্তন করতে হবে",
+      "english": "Our Lord, upon You we have relied, and to You we have returned, and to You is the destination",
+      "reference": "Surah Al-Mumtahanah (60:4)"
+    },
+    {
+      "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِن رَّوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+      "bangla": "আর তোমরা আল্লাহর রহমত থেকে নিরাশ হয়ো না; নিশ্চয়ই আল্লাহর রহমত থেকে কেবল কাফের সম্প্রদায়ই নিরাশ হয়",
+      "english": "And despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people",
+      "reference": "Surah Yusuf (12:87)"
+    },
+    {
+      "arabic": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "bangla": "জেনে রাখ, আল্লাহর বন্ধুদের কোন ভয় নেই এবং তারা চিন্তিতও হবে না",
+      "english": "Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve",
+      "reference": "Surah Yunus (10:62)"
+    },
+    {
+      "arabic": "وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ",
+      "bangla": "আমি অবশ্যই তোমাদেরকে পরীক্ষা করব কিছু ভয়, ক্ষুধা, সম্পদ, জীবন ও ফল-ফসলের ক্ষতির মাধ্যমে। আর ধৈর্যশীলদের সুসংবাদ দিন",
+      "english": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient",
+      "reference": "Surah Al-Baqarah (2:155)"
+    },
+    {
+      "arabic": "إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنتُمْ تُوعَدُونَ",
+      "bangla": "নিশ্চয় যারা বলে, 'আমাদের রব আল্লাহ', অতঃপর তারা অবিচল থাকে, তাদের উপর ফেরেশতারা অবতীর্ণ হয় যে, তোমরা ভয় করো না এবং চিন্তিত হয়ো না, আর তোমরা সেই জান্নাতের সুসংবাদ গ্রহণ কর, যা তোমাদেরকে ওয়াদা দেওয়া হত",
+      "english": "Indeed, those who have said, 'Our Lord is Allah' and then remained on a right course - the angels will descend upon them, [saying], 'Fear not, nor grieve, but receive good tidings of Paradise, which you were promised'",
+      "reference": "Surah Fussilat (41:30)"
+    },
+    {
+      "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+      "bangla": "আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই, তিনি চিরঞ্জীব, সবকিছুর ধারক। তাঁকে তন্দ্রাও স্পর্শ করে না এবং নিদ্রাও নয়। আসমান ও জমিনে যা কিছু আছে সবই তাঁর। কেউ সুপারিশ করতে পারবে না তাঁর অনুমতি ছাড়া। তিনি জানেন তাদের সামনে ও পিছনে যা কিছু আছে। তাঁর জ্ঞানসীমা থেকে তারা কোনো কিছুকেই পরিবেষ্টিত করতে পারে না, কিন্তু যতটুকু তিনি ইচ্ছা করেন। তাঁর সিংহাসন সমস্ত আসমান ও জমিনকে পরিবেষ্টিত করে আছে। আর সেগুলোকে ধারণ করা তাঁর জন্য কঠিন নয়। তিনি সর্বোচ্চ এবং সর্বশ্রেষ্ঠ",
+      "english": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great",
+      "reference": "Surah Al-Baqarah (2:255)"
+    },
+    {
+      "arabic": "وَذَا النُّونِ إِذ ذَّهَبَ مُغَاضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ * فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ ۚ وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ",
+      "bangla": "আর স্মরণ কর যুন-নূন (ইউনুস)-এর কথা, যখন তিনি রাগান্বিত অবস্থায় চলে গিয়েছিলেন এবং মনে করেছিলেন যে, আমরা তাকে পাকড়াও করব না। অতঃপর তিনি অন্ধকারে ডাকলেন, 'তোমারই উপাসনা করি, তুমি ছাড়া কোনো ইলাহ নেই। তুমি পবিত্র, নিশ্চয়ই আমি সীমালঙ্ঘনকারী' * অতঃপর আমরা তার ডাকে সাড়া দিলাম এবং তাকে দুঃখ থেকে উদ্ধার করলাম। আর এভাবেই আমরা মুমিনদেরকে উদ্ধার করে থাকি",
+      "english": "And [mention] the man of the fish [i.e., Jonah], when he went off in anger and thought that We would not decree [anything] upon him. And he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers' * So We responded to him and saved him from the distress. And thus do We save the believers",
+      "reference": "Surah Al-Anbiya (21:87-88)"
+    },
+    {
+      "arabic": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "bangla": "আর আপনি ধৈর্য ধারণ করুন, আপনার ধৈর্য আল্লাহর জন্যই। আর আপনি তাদের জন্য দুঃখিত হবেন না এবং তারা যে ষড়যন্ত্র করে তজ্জন্যে সংকীর্ণমনা হবেন না",
+      "english": "And be patient, [O Muhammad], and your patience is not but through Allah. And do not grieve over them and do not be in distress over what they conspire",
+      "reference": "Surah An-Nahl (16:127)"
+    },
+    {
+      "arabic": "وَلَا تَقُولُوا لِمَنْ يُقْتَلُ فِي سَبِيلِ اللَّهِ أَمْوَاتٌ ۚ بَلْ أَحْيَاءٌ وَلَٰكِنْ لَا تَشْعُرُونَ * وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ * الَّذِينَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ * أُولَٰئِكَ عَلَيْهِمْ صَلَوَاتٌ مِنْ رَبِّهِمْ وَرَحْمَةٌ ۖ وَأُولَٰئِكَ هُمُ الْمُهْتَدُونَ",
+      "bangla": "আর তোমরা যারা আল্লাহর পথে নিহত হয় তাদেরকে মৃত বলো না; বরং তারা জীবিত, কিন্তু তোমরা তা উপলব্ধি কর না * আমি অবশ্যই তোমাদেরকে পরীক্ষা করব কিছু ভয়, ক্ষুধা, সম্পদ, জীবন ও ফল-ফসলের ক্ষতির মাধ্যমে। আর ধৈর্যশীলদের সুসংবাদ দাও * যারা তাদের উপর বিপদ আপতিত হলে বলে, 'নিশ্চয়ই আমরা আল্লাহর জন্য এবং নিশ্চয়ই আমরা তাঁরই দিকে প্রত্যাবর্তনকারী' * তাদের উপরই তাদের রবের পক্ষ থেকে বিশেষ অনুগ্রহ ও রহমত রয়েছে এবং তারাই হিদায়াতপ্রাপ্ত",
+      "english": "And never say of those who are killed in the way of Allah, 'They are dead.' Rather, they are alive, but you perceive [it] not * And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient * Who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return' * Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided",
+      "reference": "Surah Al-Baqarah (2:154-157)"
+    }
+  ],
+  "depressed": [
+    {
+      "arabic": "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "bangla": "আর আপনি তাদের জন্য দুঃখিত হবেন না এবং তারা যে ষড়যন্ত্র করে তজ্জন্যে সংকীর্ণমনা হবেন না",
+      "english": "And do not grieve over them and do not be in distress over what they conspire",
+      "reference": "Surah An                -Nahl (16:127)"
+    },
+    {
+      "arabic": "وَلَا تَحْزَنْ عَلَيْهِمْ وَلا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "bangla": "আর আপনি তাদের জন্য দুঃখিত হবেন না এবং তারা যে ষড়যন্ত্র করে তজ্জন্যে সংকীর্ণ  মনা হবেন না",
+      "english": "And do not grieve over them and do not be in distress over what they conspire",
+      "reference": "Surah Al-An'am (6:33)"
+    }
+  ],
+  "lonely": [
+    {
+      "arabic": "إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ",
+      "bangla": "নিশ্চয়ই আমি তোমাদের দু’জনের সাথে আছি, আমি শুনি ও দেখি",
+      "english": "Indeed, I am with you both; I hear and I see",
+      "reference": "Surah Taha (20:46)"
+    },
+    {
+      "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
+      "bangla": "আর তিনি তোমাদের সাথে আছেন তোমরা যেখানেই থাক",
+      "english": "And He is with you wherever you are",
+      "reference": "Surah Al-Hadid (57:4)"
+    },
+    {
+      "arabic": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "bangla": "জেনে রাখ, আল্লাহর বন্ধুদের কোন ভয় নেই এবং তারা চিন্তিতও হবে না",
+      "english": "Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve",
+      "reference": "Surah Yunus (10:62)"
+    },
+    {
+      "arabic": "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ * إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوا وَّالَّذِينَ هُم مُّحْسِنُونَ",
+      "bangla": "আর আপনি তাদের জন্য দুঃখিত হবেন না এবং তারা যে ষড়যন্ত্র করে তজ্জন্যে সংকীর্ণমনা হবেন না * নিশ্চয়ই আল্লাহ মুত্তাকী ও মুহসিনদের সাথে রয়েছেন",
+      "english": "And do not grieve over them or be in distress from what they conspire * Indeed, Allah is with those who fear Him and those who are doers of good",
+      "reference": "Surah An-Nahl (16:127-128)"
+    },
+    {
+      "arabic": "مَا يَكُونُ مِن نَّجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَا أَدْنَىٰ مِن ذَٰلِكَ وَلَا أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا",
+      "bangla": "তিনজনের কোন গোপন পরামর্শ হয় না, তিনি তাদের চতুর্থ হন না; পাঁচজনেরও না, তিনি তাদের ষষ্ঠ হন না; এর চেয়ে কম বা বেশীও না, তারা যেখানেই থাকুক না কেন",
+      "english": "There is no private conversation of three except that He is the fourth of them, nor are there five except that He is the sixth of them - and no less than that and no more except that He is with them wherever they are",
+      "reference": "Surah Al-Mujadila (58:7)"
+    },
+    {
+      "arabic": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ",
+      "bangla": "আমি তো মানুষকে সৃষ্টি করেছি এবং তার মন যা কুমন্ত্রণা দেয় তা জানি। আমি তার গলার শিরার চেয়েও নিকটে",
+      "english": "And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein",
+      "reference": "Surah Qaf (50:16)"
+    },
+    {
+      "arabic": "قُلْ مَن ذَا الَّذِي يَعْصِمُكُم مِّنَ اللَّهِ إِنْ أَرَادَ بِكُمْ سُوءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "bangla": "বলুন, কে আছে যে তোমাদেরকে আল্লাহ (এর শাস্তি) থেকে রক্ষা করবে যদি তিনি তোমাদের অমঙ্গল ইচ্ছা করেন? অথবা তিনি যদি তোমাদের প্রতি রহমত ইচ্ছা করেন? তারা আল্লাহ ছাড়া কোন অভিভাবক ও সাহায্যকারী পাবে না",
+      "english": "Say, 'Who is it that can protect you from Allah if He intends for you an ill or intends for you a mercy?' And they will not find for themselves besides Allah any protector or helper",
+      "reference": "Surah Al-Ahzab (33:17)"
+    },
+    {
+      "arabic": "أَمْ حَسِبَ الَّذِينَ اجْتَرَحُوا السَّيِّئَاتِ أَن نَّجْعَلَهُمْ كَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَوَاءً مَّحْيَاهُمْ وَمَمَاتُهُمْ ۚ سَاءَ مَا يَحْكُمُونَ * وَخَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "bangla": "যারা মন্দ কর্ম করেছে তারা কি মনে করে যে, আমি তাদেরকে ঈমানদার ও সৎকর্মশীলদের মত সমান করে দেব? তাদের জীবন ও মরণ সমান হবে? তাদের ফয়সালা কতই না মন্দ! * আল্লাহ আসমান ও জমিন সৃষ্টি করেছেন যথার্থভাবে, যাতে প্রত্যেকেই তার কৃত কর্মের ফল পায় এবং তাদের প্রতি জুলুম করা হবে না",
+      "english": "Or do those who commit evil deeds think that We will make them like those who have believed and done righteous deeds - [equal] in their life and their death? Evil is that which they judge * And Allah created the heavens and earth in truth and so that every soul may be recompensed for what it has earned, and they will not be wronged",
+      "reference": "Surah Al-Jathiya (45:21-22)"
+    },
+    {
+      "arabic": "رَّبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
+      "bangla": "তিনি পূর্ব ও পশ্চিমের রব, তিনি ছাড়া কোন ইলাহ নেই। অতএব, তুমি তাকেই অভিভাবকরূপে গ্রহণ কর",
+      "english": "Lord of the east and the west; there is no deity except Him, so take Him as Disposer of [your] affairs",
+      "reference": "Surah Al-Muzzammil (73:9)"
+    },
+    {
+      "arabic": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ",
+      "bangla": "আল্লাহ কি তাঁর বান্দার জন্য যথেষ্ট নন?",
+      "english": "Is not Allah sufficient for His Servant?",
+      "reference": "Surah Az-Zumar (39:36)"
+    },
+    {
+      "arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+      "bangla": "এবং তিনি তাকে এমন জায়গা থেকে রিযিক দেন যা সে কল্পনাও করে না। যে ব্যক্তি আল্লাহর উপর ভরসা করে, আল্লাহ তার জন্য যথেষ্ট",
+      "english": "And He will provide for him from where he does not expect. And whoever relies upon Allah - then He is sufficient for him",
+      "reference": "Surah At-Talaq (65:3)"
+    },
+    {
+      "arabic": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ الْمُجَاهِدِينَ مِنكُمْ وَالصَّابِرِينَ وَنَبْلُوَ أَخْبَارَكُمْ",
+      "bangla": "আমি অবশ্যই তোমাদেরকে পরীক্ষা করব যতক্ষণ না আমি জানতে পারি তোমাদের মধ্যে মুজাহিদ ও ধৈর্যশীলদেরকে এবং আমি তোমাদের অবস্থা পরীক্ষা করে দেখব",
+      "english": "And We will surely test you until We make evident those who strive among you [for the cause of Allah] and the patient, and We will test your affairs",
+      "reference": "Surah Muhammad (47:31)"
+    },
+    {
+      "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "bangla": "তোমরা দুর্বল হয়ো না এবং দুঃখিত হয়ো না, তোমরাই বিজয়ী হবে যদি তোমরা মুমিন হও",
+      "english": "Do not weaken and do not grieve, and you will be superior if you are [true] believers",
+      "reference": "Surah Aal-E-Imran (3:139)"
+    },
+    {
+      "arabic": "وَمَن يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِم مِّنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ وَحَسُنَ أُولَٰئِكَ رَفِيقًا",
+      "bangla": "আর যারা আল্লাহ ও রাসূলের আনুগত্য করে, তারা নবী, সিদ্দীক, শহীদ ও সালেহীনদের সঙ্গী হবে। আর এরা কত উত্তর সঙ্গী!",
+      "english": "And whoever obeys Allah and the Messenger - those will be with the ones upon whom Allah has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions",
+      "reference": "Surah An-Nisa (4:69)"
+    },
+    {
+      "arabic": "وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُم بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا",
+      "bangla": "আপনার নিজেকে ধৈর্য ধারণকারীদের সাথে সংযুক্ত রাখুন, যারা সকাল-সন্ধ্যায় তাদের রবকে ডাকে তাঁর সন্তুষ্টি কামনা করে। আর পার্থিব জীবনের শোভার প্রতি লোভে আপনি তাদের থেকে দৃষ্টি ফিরিয়ে নেবেন না",
+      "english": "And keep yourself patient [by being] with those who call upon their Lord in the morning and the evening, seeking His countenance. And let not your eyes pass beyond them, desiring adornments of the worldly life",
+      "reference": "Surah Al-Kahf (18:28)"
+    },
+    {
+      "arabic": "وَمَن يَعْتَصِم بِاللَّهِ فَقَدْ هُدِيَ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+      "bangla": "যে আল্লাহকে অবলম্বন করে, তাকে সরল পথে পরিচালিত করা হয়",
+      "english": "And whoever holds firmly to Allah has [indeed] been guided to a straight path",
+      "reference": "Surah Aal-E-Imran (3:101)"
+    },
+    {
+      "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا",
+      "bangla": "যারা ঈমান আনে ও সৎকর্ম করে, অচিরেই দয়াময় আল্লাহ তাদের জন্য ভালোবাসা সৃষ্টি করে দেবেন",
+      "english": "Indeed, those who have believed and done righteous deeds - the Most Merciful will appoint for them affection",
+      "reference": "Surah Maryam (19:96)"
+    },
+    {
+      "arabic": "يَا أَيُّهَا النَّاسُ أَنتُمُ الْفُقَرَاءُ إِلَى اللَّهِ ۖ وَاللَّهُ هُوَ الْغَنِيُّ الْحَمِيدُ",
+      "bangla": "হে মানুষ! তোমরা আল্লাহর মুখাপেক্ষী, আর আল্লাহই অভাবমুক্ত, প্রশংসিত",
+      "english": "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy",
+      "reference": "Surah Fatir (35:15)"
+    },
+    {
+      "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+      "bangla": "আর তোমাদের রব বলেছেন, তোমরা আমাকে ডাক, আমি তোমাদের ডাকে সাড়া দেব",
+      "english": "And your Lord says, 'Call upon Me; I will respond to you.'",
+      "reference": "Surah Ghafir (40:60)"
+    },
+    {
+      "arabic": "وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ الْجَهْرِ مِنَ الْقَوْلِ بِالْغُدُوِّ وَالْآصَالِ وَلَا تَكُن مِّنَ الْغَافِلِينَ",
+      "bangla": "আপনার রবকে সকাল-সন্ধ্যায় মনে মনে বিনীত ও ভীত স্বরে স্মরণ করুন, উচ্চ স্বরে নন। আর আপনি অজ্ঞদের অন্তর্ভুক্ত হবেন না",
+      "english": "And remember your Lord within yourself in humility and in fear without being apparent in speech - in the mornings and the evenings. And do not be among the heedless",
+      "reference": "Surah Al-A'raf (7:205)"
+    }
+  ],
+  "comfort": [
+    {
+      "arabic": "وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ",
+      "bangla": "আমি অবশ্যই তোমাদেরকে পরীক্ষা করব কিছু ভয়, ক্ষুধা, সম্পদ, জীবন ও ফল-ফসলের ক্ষতির মাধ্যমে। আর ধৈর্যশীলদের সুসংবাদ দিন",
+      "english": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient",
+      "reference": "Surah Al-Baqarah (2:155)"
+    },
+    {
+      "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+      "bangla": "আল্লাহ কাউকে তার সাধ্যের অতীত দায়িত্ব দেন না",
+      "english": "Allah does not burden a soul beyond that it can bear",
+      "reference": "Surah Al-Baqarah (2:286)"
+    },
+    {
+      "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "bangla": "নিশ্চয়ই কষ্টের সঙ্গেই রয়েছে স্বাচ্ছন্দ্য",
+      "english": "Indeed, with hardship [will be] ease",
+      "reference": "Surah Ash-Sharh (94:6)"
+    },
+    {
+      "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+      "bangla": "আর আমি কুরআনে এমন বিষয় নাযিল করি যা মুমিনদের জন্য আরোগ্য ও রহমত",
+      "english": "And We send down of the Qur'an that which is healing and mercy for the believers",
+      "reference": "Surah Al-Isra (17:82)"
+    },
+    {
+      "arabic": "الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+      "bangla": "যারা ঈমান আনে এবং আল্লাহর স্মরণেই যাদের অন্তর প্রশান্তি লাভ করে; জেনে রাখ, আল্লাহর স্মরণেই অন্তরসমূহ শান্তি পায়",
+      "english": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured",
+      "reference": "Surah Ar-Ra'd (13:28)"
+    },
+    {
+      "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "bangla": "তোমরা দুর্বল হয়ো না এবং দুঃখিত হয়ো না, তোমরাই বিজয়ী হবে যদি তোমরা মুমিন হও",
+      "english": "Do not weaken and do not grieve, and you will be superior if you are [true] believers",
+      "reference": "Surah Aal-E-Imran (3:139)"
+    },
+    {
+      "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِن رَّوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+      "bangla": "আর তোমরা আল্লাহর রহমত থেকে নিরাশ হয়ো না; নিশ্চয়ই আল্লাহর রহমত থেকে কেবল কাফের সম্প্রদায়ই নিরাশ হয়",
+      "english": "And despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people",
+      "reference": "Surah Yusuf (12:87)"
+    },
+    {
+      "arabic": "إِنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا",
+      "bangla": "নিশ্চয়ই আল্লাহ মুমিনদেরকে সাহায্য করেন",
+      "english": "Indeed, Allah defends those who have believed",
+      "reference": "Surah Al-Hajj (22:38)"
+    },
+    {
+      "arabic": "وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ",
+      "bangla": "আর মুমিনদের সাহায্য করা আমাদের কর্তব্য",
+      "english": "And incumbent upon Us was support of the believers",
+      "reference": "Surah Ar-Rum (30:47)"
+    },
+    {
+      "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+      "bangla": "যে ব্যক্তি আল্লাহর উপর ভরসা করে, আল্লাহ তার জন্য যথেষ্ট",
+      "english": "And whoever relies upon Allah - then He is sufficient for him",
+      "reference": "Surah At-Talaq (65:3)"
+    },
+    {
+      "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+      "bangla": "জেনে রাখ, আল্লাহর স্মরণেই অন্তরসমূহ শান্তি পায়",
+      "english": "Unquestionably, by the remembrance of Allah hearts are assured",
+      "reference": "Surah Ar-Ra'd (13:28)"
+    },
+    {
+      "arabic": "رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+      "bangla": "হে আমাদের রব! আমরা তোমারই উপর ভরসা করলাম, তোমারই দিকে মুখ ফিরালাম এবং তোমারই দিকে প্রত্যাবর্তন করতে হবে",
+      "english": "Our Lord, upon You we have relied, and to You we have returned, and to You is the destination",
+      "reference": "Surah Al-Mumtahanah (60:4)"
+    },
+    {
+      "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "bangla": "আর শীঘ্রই তোমার রব তোমাকে দেবেন, ফলে তুমি সন্তুষ্ট হবে",
+      "english": "And your Lord is going to give you, and you will be satisfied",
+      "reference": "Surah Ad-Duha (93:5)"
+    },
+    {
+      "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+      "bangla": "বলুন, হে আমার বান্দাগণ! যারা নিজেদের প্রতি বাড়াবাড়ি করেছ, তোমরা আল্লাহর রহমত থেকে নিরাশ হয়ো না",
+      "english": "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah'",
+      "reference": "Surah Az-Zumar (39:53)"
+    },
+    {
+      "arabic": "وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ ۚ وَمَا كَانَ اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ",
+      "bangla": "আল্লাহ তাদেরকে শাস্তি দেবেন না, যতক্ষণ আপনি তাদের মধ্যে অবস্থান করছেন। আর আল্লাহ তাদেরকে শাস্তি দেবেন না, যতক্ষণ তারা ক্ষমা প্রার্থনা করছে",
+      "english": "But Allah would not punish them while you, [O Muhammad], are among them, and Allah would not punish them while they seek forgiveness",
+      "reference": "Surah Al-Anfal (8:33)"
+    },
+    {
+      "arabic": "إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَالَهُم بِأَنَّ لَهُمُ الْجَنَّةَ",
+      "bangla": "নিশ্চয়ই আল্লাহ মুমিনদের থেকে তাদের জান ও মাল ক্রয় করে নিয়েছেন জান্নাতের বিনিময়ে",
+      "english": "Indeed, Allah has purchased from the believers their lives and their properties [in exchange] for that they will have Paradise",
+      "reference": "Surah At-Tawbah (9:111)"
+    },
+    {
+      "arabic": "وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ * الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ * أُولَٰئِكَ عَلَيْهِمْ صَلَوَاتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ ۖ وَأُولَٰئِكَ هُمُ الْمُهْتَدُونَ",
+      "bangla": "আমি অবশ্যই তোমাদেরকে পরীক্ষা করব কিছু ভয়, ক্ষুধা, সম্পদ, জীবন ও ফল-ফসলের ক্ষতির মাধ্যমে। আর ধৈর্যশীলদের সুসংবাদ দিন * যারা তাদের উপর বিপদ আপতিত হলে বলে, 'নিশ্চয়ই আমরা আল্লাহর জন্য এবং নিশ্চয়ই আমরা তাঁরই দিকে প্রত্যাবর্তনকারী' * তাদের উপরই তাদের রবের পক্ষ থেকে বিশেষ অনুগ্রহ ও রহমত রয়েছে এবং তারাই হিদায়াতপ্রাপ্ত",
+      "english": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient * Who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return' * Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided",
+      "reference": "Surah Al-Baqarah (2:155-157)"
+    },
+    {
+      "arabic": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ",
+      "bangla": "আমি তো মানুষকে সৃষ্টি করেছি এবং তার মন যা কুমন্ত্রণা দেয় তা জানি। আমি তার গলার শিরার চেয়েও নিকটে",
+      "english": "And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein",
+      "reference": "Surah Qaf (50:16)"
+    },
+    {
+      "arabic": "وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "bangla": "এবং হতে পারে তোমরা কোনো জিনিসকে অপছন্দ কর, অথচ তা তোমাদের জন্য কল্যাণকর; এবং হতে পারে তোমরা কোনো জিনিসকে পছন্দ কর, অথচ তা তোমাদের জন্য অকল্যাণকর। আল্লাহ জানেন, আর তোমরা জান না",
+      "english": "But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah knows, while you know not",
+      "reference": "Surah Al-Baqarah (2:216)"
+    },
+    {
+      "arabic": "إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ",
+      "bangla": "নিশ্চয়ই আল্লাহর রহমত সৎকর্মশীলদের নিকটবর্তী",
+      "english": "Indeed, the mercy of Allah is near to the doers of good",
+      "reference": "Surah Al-A'raf (7:56)"
+    },
+    {
+      "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+      "bangla": "আর আমার রহমত সব কিছুকে পরিবেষ্টন করে নিয়েছে",
+      "english": "My mercy encompasses all things",
+      "reference": "Surah Al-A'raf (7:156)"
+    }
+  ],
+  "angry": [
+    {
+      "arabic": "وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ",
+      "bangla": "যারা ক্রোধ সংবরণ করে এবং মানুষের প্রতি ক্ষমাশীল হয়। আল্লাহ সৎকর্মশীলদেরকে ভালোবাসেন",
+      "english": "Who restrain anger and pardon the people - and Allah loves the doers of good",
+      "reference": "Surah Aal-E-Imran (3:134)"
+    },
+    {
+      "arabic": "وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ",
+      "bangla": "আর যখন তারা ক্রুদ্ধ হয়, তখন ক্ষমা করে দেয়",
+      "english": "And when they are angry, they forgive",
+      "reference": "Surah Ash-Shura (42:37)"
+    },
+    {
+      "arabic": "وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ۚ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ",
+      "bangla": "ভালো ও মন্দ সমান নয়। তুমি মন্দকে উত্তম দ্বারা প্রতিহত কর, ফলে যে তোমার ও তার মধ্যে শত্রুতা আছে, সে অন্তরঙ্গ বন্ধুর মত হয়ে যাবে",
+      "english": "Not equal are the good deed and the bad. Repel [evil] by that which is better; and thereupon the one whom between you and him is enmity [will become] as though he was a devoted friend",
+      "reference": "Surah Fussilat (41:34)"
+    },
+    {
+      "arabic": "وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ ۖ إِنَّهُ سَمِيعٌ عَلِيمٌ",
+      "bangla": "শয়তান যদি তোমাকে কুমন্ত্রণা দেয়, তবে আল্লাহর কাছে আশ্রয় প্রার্থনা কর। নিশ্চয় তিনি সর্বশ্রোতা, সর্বজ্ঞ",
+      "english": "And if there comes to you from Satan an evil suggestion, then seek refuge in Allah. Indeed, He is the Hearing, the Knowing",
+      "reference": "Surah Al-A'raf (7:200)"
+    },
+    {
+      "arabic": "وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ",
+      "bangla": "আর যারা বড় বড় গুনাহ ও অশ্লীল কাজ থেকে বেঁচে থাকে এবং যখন ক্রুদ্ধ হয়, তখন ক্ষমা করে",
+      "english": "And those who avoid the major sins and immoralities, and when they are angry, they forgive",
+      "reference": "Surah Ash-Shura (42:37)"
+    },
+    {
+      "arabic": "خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ",
+      "bangla": "ক্ষমা অবলম্বন কর, সৎকাজের আদেশ দাও এবং অজ্ঞদের থেকে দূরে থাক",
+      "english": "Show forgiveness, enjoin what is good, and turn away from the ignorant",
+      "reference": "Surah Al-A'raf (7:199)"
+    },
+    {
+      "arabic": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ الْأُمُورِ",
+      "bangla": "যে ধৈর্য ধরে ও ক্ষমা করে, নিশ্চয়ই তা দৃঢ় সংকল্পের কাজ",
+      "english": "But whoever is patient and forgives - indeed, that is of the matters [requiring] determination",
+      "reference": "Surah Ash-Shura (42:43)"
+    },
+    {
+      "arabic": "وَإِن تَصْبِرُوا وَتَتَّقُوا فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+      "bangla": "যদি তোমরা ধৈর্য ধারণ কর এবং তাকওয়া অবলম্বন কর, তবে নিশ্চয়ই তা দৃঢ় সংকল্পের কাজ",
+      "english": "But if you are patient and fear Allah - indeed, that is of the matters [requiring] determination",
+      "reference": "Surah Aal-E-Imran (3:186)"
+    },
+    {
+      "arabic": "وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ",
+      "bangla": "মন্দের প্রতিফল অনুরূপ মন্দ। কিন্তু যে ক্ষমা করে ও শান্তি স্থাপন করে, তার পুরস্কার আল্লাহর কাছে",
+      "english": "The recompense for an evil is an evil like thereof; but whoever forgives and makes reconciliation, his reward is with Allah",
+      "reference": "Surah Ash-Shura (42:40)"
+    },
+    {
+      "arabic": "وَلَا تَقْتُلُوا أَنفُسَكُمْ ۚ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا",
+      "bangla": "তোমরা নিজেদের হত্যা করো না। নিশ্চয়ই আল্লাহ তোমাদের প্রতি দয়ালু",
+      "english": "And do not kill yourselves [or one another]. Indeed, Allah is to you ever Merciful",
+      "reference": "Surah An-Nisa (4:29)"
+    },
+    {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰ أَن يَكُونُوا خَيْرًا مِّنْهُمْ",
+      "bangla": "হে মুমিনগণ! কোনো সম্প্রদায় যেন অন্য সম্প্রদায়কে উপহাস না করে, হতে পারে তারা তাদের চেয়ে উত্তম",
+      "english": "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them",
+      "reference": "Surah Al-Hujurat (49:11)"
+    },
+    {
+      "arabic": "وَلَا تَنَابَزُوا بِالْأَلْقَابِ",
+      "bangla": "একে অপরকে মন্দ নামে ডাকো না",
+      "english": "And do not insult one another with nicknames",
+      "reference": "Surah Al-Hujurat (49:11)"
+    },
+    {
+      "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ",
+      "bangla": "মুমিনগণ তো পরস্পর ভাই ভাই, অতএব তোমরা তোমাদের ভাইদের মধ্যে শান্তি স্থাপন কর",
+      "english": "The believers are but brothers, so make settlement between your brothers",
+      "reference": "Surah Al-Hujurat (49:10)"
+    },
+    {
+      "arabic": "وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ",
+      "bangla": "আর তোমরা আল্লাহ ও তাঁর রাসূলের আনুগত্য কর এবং বিবাদ করো না, করলে তোমরা সাহস হারাবে এবং তোমাদের শক্তি বিলুপ্ত হবে",
+      "english": "And obey Allah and His Messenger, and do not dispute and [thus] lose courage and [then] your strength would depart",
+      "reference": "Surah Al-Anfal (8:46)"
+    },
+    {
+      "arabic": "وَلَا تَقْرَبُوا الزِّنَىٰ ۖ إِنَّهُ كَانَ فَاحِشَةً وَسَاءَ سَبِيلًا",
+      "bangla": "ব্যভিচারের কাছেও যেয়ো না। নিশ্চয়ই তা অশ্লীল কাজ ও নিকৃষ্ট পথ",
+      "english": "And do not approach unlawful sexual intercourse. Indeed, it is ever an immorality and is evil as a way",
+      "reference": "Surah Al-Isra (17:32)"
+    },
+    {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ",
+      "bangla": "হে মুমিনগণ! তোমরা অধিকাংশ অনুমান থেকে বেঁচে থাক, নিশ্চয়ই কোন কোন অনুমান পাপ",
+      "english": "O you who have believed, avoid much [negative] assumption. Indeed, some assumption is sin",
+      "reference": "Surah Al-Hujurat (49:12)"
+    },
+    {
+      "arabic": "وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا",
+      "bangla": "একে অপরের গোপনীয় বিষয় সন্ধান করো না এবং একে অপরের পিছনে নিন্দা করো না",
+      "english": "And do not spy or backbite each other",
+      "reference": "Surah Al-Hujurat (49:12)"
+    },
+    {
+      "arabic": "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ",
+      "bangla": "যে বিষয়ে তোমার জ্ঞান নেই, তার অনুসরণ করো না",
+      "english": "And do not pursue that of which you have no knowledge",
+      "reference": "Surah Al-Isra (17:36)"
+    },
+    {
+      "arabic": "وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّكَ لَن تَخْرِقَ الْأَرْضَ وَلَن تَبْلُغَ الْجِبَالَ طُولًا",
+      "bangla": "পৃথিবীতে দম্ভভরে পদচারণ করো না। নিশ্চয়ই তুমি পৃথিবীকে বিদীর্ণ করতে পারবে না এবং পর্বতসমূহে উচ্চতায় পৌঁছতে পারবে না",
+      "english": "And do not walk upon the earth exultantly. Indeed, you will never tear the earth [apart], and you will never reach the mountains in height",
+      "reference": "Surah Al-Isra (17:37)"
+    },
+    {
+      "arabic": "وَلَا تَسْتَكْبِرْ فِي الْأَرْضِ إِنَّ اللَّهَ لَا يُحِبُّ الْمُسْتَكْبِرِينَ",
+      "bangla": "পৃথিবীতে অহংকার করে বেড়িও না। নিশ্চয়ই আল্লাহ অহংকারীদেরকে পছন্দ করেন না",
+      "english": "And do not walk upon the earth arrogantly. Indeed, Allah does not like the arrogant and the boastful",
+      "reference": "Surah Luqman (31:18)"
+    }
+  ],
+  "motivational": [
+    {
+      "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "bangla": "নিশ্চয়ই কষ্টের সঙ্গেই রয়েছে স্বাচ্ছন্দ্য",
+      "english": "Indeed, with hardship [will be] ease",
+      "reference": "Surah Ash-Sharh (94:6)"
+    },
+    {
+      "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا * إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "bangla": "অতএব, নিশ্চয়ই কষ্টের সঙ্গেই স্বাচ্ছন্দ্য আছে * নিশ্চয়ই কষ্টের সঙ্গেই স্বাচ্ছন্দ্য আছে",
+      "english": "For indeed, with hardship will be ease * Indeed, with hardship will be ease",
+      "reference": "Surah Ash-Sharh (94:5-6)"
+    },
+    {
+      "arabic": "وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ",
+      "bangla": "আমি অবশ্যই তোমাদেরকে পরীক্ষা করব কিছু ভয়, ক্ষুধা, সম্পদ, জীবন ও ফল-ফসলের ক্ষতির মাধ্যমে। আর ধৈর্যশীলদের সুসংবাদ দিন",
+      "english": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient",
+      "reference": "Surah Al-Baqarah (2:155)"
+    },
+    {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "bangla": "হে মুমিনগণ! তোমরা ধৈর্য ধারণ কর, ধৈর্যে প্রতিযোগিতা কর, সদা প্রস্তুত থাক এবং আল্লাহকে ভয় কর, যাতে তোমরা সফলকাম হও",
+      "english": "O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful",
+      "reference": "Surah Aal-E-Imran (3:200)"
+    },
+    {
+      "arabic": "إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ",
+      "bangla": "নিশ্চয়ই আল্লাহ কোন জাতির অবস্থা পরিবর্তন করেন না, যতক্ষণ না তারা নিজেদের অবস্থা পরিবর্তন করে",
+      "english": "Indeed, Allah will not change the condition of a people until they change what is in themselves",
+      "reference": "Surah Ar-Ra'd (13:11)"
+    },
+    {
+      "arabic": "وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ",
+      "bangla": "বলুন, তোমরা কাজ কর, আল্লাহ তাঁর রাসূল ও মুমিনগণ তোমাদের কাজ প্রত্যক্ষ করবেন",
+      "english": "And say, 'Do [as you will], for Allah will see your deeds, and [so will] His Messenger and the believers'",
+      "reference": "Surah At-Tawbah (9:105)"
+    },
+    {
+      "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "bangla": "তোমরা দুর্বল হয়ো না এবং দুঃখিত হয়ো না, তোমরাই বিজয়ী হবে যদি তোমরা মুমিন হও",
+      "english": "Do not weaken and do not grieve, and you will be superior if you are [true] believers",
+      "reference": "Surah Aal-E-Imran (3:139)"
+    },
+    {
+      "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِن رَّوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+      "bangla": "আর তোমরা আল্লাহর রহমত থেকে নিরাশ হয়ো না; নিশ্চয়ই আল্লাহর রহমত থেকে কেবল কাফের সম্প্রদায়ই নিরাশ হয়",
+      "english": "And despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people",
+      "reference": "Surah Yusuf (12:87)"
+    },
+    {
+      "arabic": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا",
+      "bangla": "যে আল্লাহকে ভয় করে, আল্লাহ তার জন্যে উত্তরণের পথ বের করে দেন",
+      "english": "And whoever fears Allah - He will make for him a way out",
+      "reference": "Surah At-Talaq (65:2)"
+    },
+    {
+      "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+      "bangla": "যে ব্যক্তি আল্লাহর উপর ভরসা করে, আল্লাহ তার জন্য যথেষ্ট",
+      "english": "And whoever relies upon Allah - then He is sufficient for him",
+      "reference": "Surah At-Talaq (65:3)"
+    },
+    {
+      "arabic": "فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ",
+      "bangla": "যখন আপনি সিদ্ধান্ত গ্রহণ করবেন, তখন আল্লাহর উপর ভরসা করুন। নিশ্চয়ই আল্লাহ ভরসাকারীদেরকে ভালোবাসেন",
+      "english": "And when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him]",
+      "reference": "Surah Aal-E-Imran (3:159)"
+    },
+    {
+      "arabic": "وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ",
+      "bangla": "মানুষ তার চেষ্টার ফল ছাড়া কিছুই পাবে না",
+      "english": "And that there is not for man except that [good] for which he strives",
+      "reference": "Surah An-Najm (53:39)"
+    },
+    {
+      "arabic": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا",
+      "bangla": "যারা আমাদের পথে সংগ্রাম করে, আমরা অবশ্যই তাদেরকে আমাদের পথে পরিচালিত করব",
+      "english": "And those who strive for Us - We will surely guide them to Our ways",
+      "reference": "Surah Al-Ankabut (29:69)"
+    },
+    {
+      "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا",
+      "bangla": "যারা ঈমান আনে ও সৎকাজ করে, নিশ্চয়ই আমি সৎকর্মীদের পারিশ্রমিক বিনষ্ট করি না",
+      "english": "Indeed, those who believe and do righteous deeds - indeed, We will not allow to be lost the reward of any who did well in deeds",
+      "reference": "Surah Al-Kahf (18:30)"
+    },
+    {
+      "arabic": "وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَٰلِكَ غَدًا * إِلَّا أَن يَشَاءَ اللَّهُ",
+      "bangla": "কোনো বিষয়ে কখনো বলো না যে, আমি আগামীকাল তা করব * কিন্তু এই বলে যে, ইনশাআল্লাহ (যদি আল্লাহ চান)",
+      "english": "And never say of anything, 'I will do that tomorrow,' * Except [when adding], 'If Allah wills'",
+      "reference": "Surah Al-Kahf (18:23-24)"
+    },
+    {
+      "arabic": "وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ",
+      "bangla": "আর নিশ্চয়ই আপনার পরকাল আপনার প্রথম জীবনের চেয়ে উত্তম",
+      "english": "And the Hereafter is better for you than the first [life]",
+      "reference": "Surah Ad-Duha (93:4)"
+    },
+    {
+      "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+      "bangla": "বলুন, হে আমার বান্দাগণ! যারা নিজেদের প্রতি বাড়াবাড়ি করেছ, তোমরা আল্লাহর রহমত থেকে নিরাশ হয়ো না",
+      "english": "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah'",
+      "reference": "Surah Az-Zumar (39:53)"
+    },
+    {
+      "arabic": "وَاللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ",
+      "bangla": "আর আল্লাহ তোমাদের তওবা কবুল করতে চান",
+      "english": "And Allah wants to accept your repentance",
+      "reference": "Surah An-Nisa (4:27)"
+    },
+    {
+      "arabic": "وَمَن يَخْرُجْ مِن بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ",
+      "bangla": "যে ব্যক্তি আল্লাহ ও তাঁর রাসূলের উদ্দেশ্যে হিজরতকারী হিসেবে নিজ ঘর থেকে বের হয়, অতঃপর তাকে মৃত্যু পেয়ে বসে, তার পুরস্কার আল্লাহর উপর বর্তায়",
+      "english": "And whoever leaves his home as an emigrant to Allah and His Messenger and then death overtakes him - his reward has already become incumbent upon Allah",
+      "reference": "Surah An-Nisa (4:100)"
+    },
+    {
+      "arabic": "هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا وَكُلُوا مِن رِّزْقِهِ ۖ وَإِلَيْهِ النُّشُورُ",
+      "bangla": "তিনিই তোমাদের জন্য পৃথিবীকে সুগম করেছেন, অতএব তোমরা এর দিক-দিগন্তে বিচরণ কর এবং তাঁর রিযিক থেকে আহার কর। আর তাঁর কাছেই পুনরুত্থান",
+      "english": "It is He who made the earth tame for you - so walk among its slopes and eat of His provision - and to Him is the resurrection",
+      "reference": "Surah Al-Mulk (67:15)"
+    },
+    {
+      "arabic": "إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا",
+      "bangla": "নিশ্চয়ই আমি উত্তম কাজকারীদের পারিশ্রমিক বিনষ্ট করি না",
+      "english": "Indeed, We do not allow to be lost the reward of any who did well in deeds",
+      "reference": "Surah Al-Kahf (18:30)"
+    },
+    {
+      "arabic": "فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْا",
+      "bangla": "অতএব, আপনি দৃঢ়ভাবে প্রতিষ্ঠিত হোন, যেমন আপনাকে আদেশ করা হয়েছে এবং আপনার সাথে যারা তওবা করেছে তারাও। আর তোমরা সীমালংঘন করো না",
+      "english": "So remain on a right course as you have been commanded, [you] and those who have turned back with you [to Allah], and do not transgress",
+      "reference": "Surah Hud (11:112)"
+    },
+    {
+      "arabic": "وَلَوْ أَنَّ أَهْلَ الْقُرَىٰ آمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِم بَرَكَاتٍ مِّنَ السَّمَاءِ وَالْأَرْضِ",
+      "bangla": "যদি জনপদের অধিবাসীরা ঈমান আনত এবং তাকওয়া অবলম্বন করত, তবে আমি তাদের জন্য আসমান ও জমিনের বারাকাহসমূহ উন্মুক্ত করে দিতাম",
+      "english": "And if only the people of the cities had believed and feared Allah, We would have opened upon them blessings from the heaven and the earth",
+      "reference": "Surah Al-A'raf (7:96)"
+    },
+    {
+      "arabic": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ الْمُجَاهِدِينَ مِنكُمْ وَالصَّابِرِينَ وَنَبْلُوَ أَخْبَارَكُمْ",
+      "bangla": "আমি অবশ্যই তোমাদেরকে পরীক্ষা করব যতক্ষণ না আমি জানতে পারি তোমাদের মধ্যে মুজাহিদ ও ধৈর্যশীলদেরকে এবং আমি তোমাদের অবস্থা পরীক্ষা করে দেখব",
+      "english": "And We will surely test you until We make evident those who strive among you [for the cause of Allah] and the patient, and We will test your affairs",
+      "reference": "Surah Muhammad (47:31)"
+    },
+    {
+      "arabic": "وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ الْأَرْضُ",
+      "bangla": "আল্লাহ যদি মানুষের একদলকে অপর দল দ্বারা প্রতিহত না করতেন, তবে পৃথিবী বিপর্যস্ত হয়ে যেত",
+      "english": "And if it were not for Allah checking [some] people by means of others, the earth would have been corrupted",
+      "reference": "Surah Al-Baqarah (2:251)"
+    },
+    {
+      "arabic": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ",
+      "bangla": "অতএব, আপনি ধৈর্য ধারণ করুন, নিশ্চয় আল্লাহর ওয়াদা সত্য",
+      "english": "So be patient. Indeed, the promise of Allah is truth",
+      "reference": "Surah Ar-Rum (30:60)"
+    }
+  ],
+  "sad": [
+    {
+      "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+      "bangla": "আল্লাহর রহমত থেকে নিরাশ হয়ো না",
+      "english": "Do not despair of the mercy of Allah",
+      "reference": "Surah Az-Zumar (39:53)"
+    },
+    {
+      "arabic": "إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+      "bangla": "ধৈর্যশীলদেরকে তাদের পুরস্কার অপরিমিতভাবে দেওয়া হবে",
+      "english": "Indeed, the patient will be given their reward without account",
+      "reference": "Surah Az-Zumar (39:10)"
+    },
+    {
+      "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "bangla": "আর শীঘ্রই তোমার রব তোমাকে দেবেন, ফলে তুমি সন্তুষ্ট হবে",
+      "english": "And your Lord is going to give you, and you will be satisfied",
+      "reference": "Surah Ad-Duha (93:5)"
+    },
+    {
+      "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا * إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "bangla": "অতএব, নিশ্চয়ই কষ্টের সঙ্গেই স্বাচ্ছন্দ্য আছে * নিশ্চয়ই কষ্টের সঙ্গেই স্বাচ্ছন্দ্য আছে",
+      "english": "For indeed, with hardship will be ease * Indeed, with hardship will be ease",
+      "reference": "Surah Ash-Sharh (94:5-6)"
+    },
+    {
+      "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا",
+      "bangla": "বলুন, হে আমার বান্দাগণ! যারা নিজেদের প্রতি বাড়াবাড়ি করেছ, তোমরা আল্লাহর রহমত থেকে নিরাশ হয়ো না। নিশ্চয় আল্লাহ সমস্ত গুনাহ মাফ করে দেন",
+      "english": "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins'",
+      "reference": "Surah Az-Zumar (39:53)"
+    },
+    {
+      "arabic": "الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+      "bangla": "যারা ঈমান আনে এবং আল্লাহর স্মরণেই যাদের অন্তর প্রশান্তি লাভ করে; জেনে রাখ, আল্লাহর স্মরণেই অন্তরসমূহ শান্তি পায়",
+      "english": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured",
+      "reference": "Surah Ar-Ra'd (13:28)"
+    },
+    {
+      "arabic": "وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ",
+      "bangla": "আমি অবশ্যই তোমাদেরকে পরীক্ষা করব কিছু ভয়, ক্ষুধা, সম্পদ, জীবন ও ফল-ফসলের ক্ষতির মাধ্যমে। আর ধৈর্যশীলদের সুসংবাদ দিন",
+      "english": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient",
+      "reference": "Surah Al-Baqarah (2:155)"
+    },
+    {
+      "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "bangla": "নিশ্চয়ই আল্লাহ ধৈর্যশীলদের সাথে রয়েছেন",
+      "english": "Indeed, Allah is with the patient",
+      "reference": "Surah Al-Baqarah (2:153)"
+    },
+    {
+      "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "bangla": "তোমরা দুর্বল হয়ো না এবং দুঃখিত হয়ো না, তোমরাই বিজয়ী হবে যদি তোমরা মুমিন হও",
+      "english": "Do not weaken and do not grieve, and you will be superior if you are [true] believers",
+      "reference": "Surah Aal-E-Imran (3:139)"
+    },
+    {
+      "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِن رَّوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+      "bangla": "আর তোমরা আল্লাহর রহমত থেকে নিরাশ হয়ো না; নিশ্চয়ই আল্লাহর রহমত থেকে কেবল কাফের সম্প্রদায়ই নিরাশ হয়",
+      "english": "And despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people",
+      "reference": "Surah Yusuf (12:87)"
+    },
+    {
+      "arabic": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "bangla": "আর আপনি ধৈর্য ধারণ করুন, আপনার ধৈর্য আল্লাহর জন্যই। আর আপনি তাদের জন্য দুঃখিত হবেন না এবং তারা যে ষড়যন্ত্র করে তজ্জন্যে সংকীর্ণমনা হবেন না",
+      "english": "And be patient, [O Muhammad], and your patience is not but through Allah. And do not grieve over them and do not be in distress over what they conspire",
+      "reference": "Surah An-Nahl (16:127)"
+    },
+    {
+      "arabic": "وَبَشِّرِ الْمُخْبِتِينَ * الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَالصَّابِرِينَ عَلَىٰ مَا أَصَابَهُمْ",
+      "bangla": "আর নম্রচিত্তদের সুসংবাদ দিন * যাদের অন্তরসমূহ আল্লাহর স্মরণে ভীত হয় এবং যারা তাদের উপর আপতিত বিপদে ধৈর্যধারণ করে",
+      "english": "And give good tidings to the humble [before their Lord] * Who, when Allah is mentioned, their hearts are fearful, and [to] the patient over what has afflicted them",
+      "reference": "Surah Al-Hajj (22:34-35)"
+    },
+    {
+      "arabic": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ الْمُجَاهِدِينَ مِنكُمْ وَالصَّابِرِينَ",
+      "bangla": "আমি অবশ্যই তোমাদেরকে পরীক্ষা করব যতক্ষণ না আমি জানতে পারি তোমাদের মধ্যে মুজাহিদ ও ধৈর্যশীলদেরকে",
+      "english": "And We will surely test you until We make evident those who strive among you [for the cause of Allah] and the patient",
+      "reference": "Surah Muhammad (47:31)"
+    },
+    {
+      "arabic": "قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَٰلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا يَجْمَعُونَ",
+      "bangla": "বলুন, আল্লাহর অনুগ্রহে ও তাঁর রহমতে; সুতরাং তাঁরা যেন এ নিয়েই খুশি হয়",
+      "english": "Say, 'In the bounty of Allah and in His mercy - in that let them rejoice'",
+      "reference": "Surah Yunus (10:58)"
+    },
+    {
+      "arabic": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "bangla": "জেনে রাখ, আল্লাহর বন্ধুদের কোন ভয় নেই এবং তারা চিন্তিতও হবে না",
+      "english": "Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve",
+      "reference": "Surah Yunus (10:62)"
+    },
+    {
+      "arabic": "وَذَا النُّونِ إِذ ذَّهَبَ مُغَاضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ * فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ ۚ وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ",
+      "bangla": "আর স্মরণ কর যুন-নূন (ইউনুস)-এর কথা, যখন তিনি রাগান্বিত অবস্থায় চলে গিয়েছিলেন এবং মনে করেছিলেন যে, আমরা তাকে পাকড়াও করব না। অতঃপর তিনি অন্ধকারে ডাকলেন, 'তোমারই উপাসনা করি, তুমি ছাড়া কোনো ইলাহ নেই। তুমি পবিত্র, নিশ্চয়ই আমি সীমালঙ্ঘনকারী' * অতঃপর আমরা তার ডাকে সাড়া দিলাম এবং তাকে দুঃখ থেকে উদ্ধার করলাম। আর এভাবেই আমরা মুমিনদেরকে উদ্ধার করে থাকি",
+      "english": "And [mention] the man of the fish [i.e., Jonah], when he went off in anger and thought that We would not decree [anything] upon him. And he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers' * So We responded to him and saved him from the distress. And thus do We save the believers",
+      "reference": "Surah Al-Anbiya (21:87-88)"
+    },
+    {
+      "arabic": "وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ * الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ * أُولَٰئِكَ عَلَيْهِمْ صَلَوَاتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ ۖ وَأُولَٰئِكَ هُمُ الْمُهْتَدُونَ",
+      "bangla": "আমি অবশ্যই তোমাদেরকে পরীক্ষা করব কিছু ভয়, ক্ষুধা, সম্পদ, জীবন ও ফল-ফসলের ক্ষতির মাধ্যমে। আর ধৈর্যশীলদের সুসংবাদ দিন * যারা তাদের উপর বিপদ আপতিত হলে বলে, 'নিশ্চয়ই আমরা আল্লাহর জন্য এবং নিশ্চয়ই আমরা তাঁরই দিকে প্রত্যাবর্তনকারী' * তাদের উপরই তাদের রবের পক্ষ থেকে বিশেষ অনুগ্রহ ও রহমত রয়েছে এবং তারাই হিদায়াতপ্রাপ্ত",
+      "english": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient * Who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return' * Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided",
+      "reference": "Surah Al-Baqarah (2:155-157)"
+    },
+    {
+      "arabic": "وَلَئِن قُتِلْتُمْ فِي سَبِيلِ اللَّهِ أَوْ مُتُّمْ لَمَغْفِرَةٌ مِّنَ اللَّهِ وَرَحْمَةٌ خَيْرٌ مِّمَّا يَجْمَعُونَ",
+      "bangla": "আর যদি তোমরা আল্লাহর পথে নিহত হও কিংবা মারা যাও, তবে আল্লাহর ক্ষমা ও রহমত তাদের সমস্ত সম্পদের চেয়ে উত্তম",
+      "english": "And if you are killed in the cause of Allah or die - then forgiveness from Allah and mercy are better than whatever they accumulate [in this world]",
+      "reference": "Surah Aal-E-Imran (3:157)"
+    },
+    {
+      "arabic": "وَلَنُبَوِّئَنَّهُم مِّنَ الْجَنَّةِ غُرَفًا تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا",
+      "bangla": "আর অবশ্যই আমি তাদেরকে জান্নাতে এমন কক্ষে বসাব যার নিচে নহরসমূহ প্রবাহিত, সেখানে তারা চিরকাল থাকবে",
+      "english": "And We will surely cause them to enter Paradise beneath which rivers flow, wherein they abide eternally",
+      "reference": "Surah Al-Ankabut (29:58)"
+    },
+    {
+      "arabic": "إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنتُمْ تُوعَدُونَ",
+      "bangla": "নিশ্চয় যারা বলে, 'আমাদের রব আল্লাহ', অতঃপর তারা অবিচল থাকে, তাদের উপর ফেরেশতারা অবতীর্ণ হয় যে, তোমরা ভয় করো না এবং চিন্তিত হয়ো না, আর তোমরা সেই জান্নাতের সুসংবাদ গ্রহণ কর, যা তোমাদেরকে ওয়াদা দেওয়া হত",
+      "english": "Indeed, those who have said, 'Our Lord is Allah' and then remained on a right course - the angels will descend upon them, [saying], 'Fear not, nor grieve, but receive good tidings of Paradise, which you were promised'",
+      "reference": "Surah Fussilat (41:30)"
+    },
+    {
+      "arabic": "وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "bangla": "এবং হতে পারে তোমরা কোনো জিনিসকে অপছন্দ কর, অথচ তা তোমাদের জন্য কল্যাণকর; এবং হতে পারে তোমরা কোনো জিনিসকে পছন্দ কর, অথচ তা তোমাদের জন্য অকল্যাণকর। আল্লাহ জানেন, আর তোমরা জান না",
+      "english": "But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah knows, while you know not",
+      "reference": "Surah Al-Baqarah (2:216)"
+    }
+  ],
+  "thankful": [
+    {
+      "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+      "bangla": "যদি তোমরা কৃতজ্ঞ হও, আমি অবশ্যই তোমাদেরকে আরও দেব",
+      "english": "If you are grateful, I will surely increase you",
+      "reference": "Surah Ibrahim (14:7)"
+    },
+    {
+      "arabic": "وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ",
+      "bangla": "যে কৃতজ্ঞ হয়, সে তো নিজের জন্যই কৃতজ্ঞ হয়",
+      "english": "And whoever is grateful - his gratitude is only for [the benefit of] himself",
+      "reference": "Surah Luqman (31:12)"
+    },
+    {
+      "arabic": "وَاشْكُرُوا نِعْمَتَ اللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "bangla": "আর তোমরা আল্লাহর নেয়ামতের শুকরিয়া আদায় কর, যদি তোমরা তাঁরই ইবাদত কর",
+      "english": "And be grateful for the favor of Allah, if it is [indeed] Him that you worship",
+      "reference": "Surah An-Nahl (16:114)"
+    },
+    {
+      "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+      "bangla": "সুতরাং তোমরা আমাকে স্মরণ কর, আমিও তোমাদেরকে স্মরণ করব এবং আমার প্রতি কৃতজ্ঞ হও, অকৃতজ্ঞ হয়ো না",
+      "english": "So remember Me; I will remember you. And be grateful to Me and do not deny Me",
+      "reference": "Surah Al-Baqarah (2:152)"
+    },
+    {
+      "arabic": "وَسَنَجْزِي الشَّاكِرِينَ",
+      "bangla": "আর আমি কৃতজ্ঞদেরকে পুরস্কৃত করব",
+      "english": "And We will reward the grateful",
+      "reference": "Surah Aal-E-Imran (3:145)"
+    },
+    {
+      "arabic": "قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَٰلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا يَجْمَعُونَ",
+      "bangla": "বলুন, আল্লাহর অনুগ্রহে ও তাঁর রহমতে; সুতরাং তাঁরা যেন এ নিয়েই খুশি হয়",
+      "english": "Say, 'In the bounty of Allah and in His mercy - in that let them rejoice'",
+      "reference": "Surah Yunus (10:58)"
+    },
+    {
+      "arabic": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ",
+      "bangla": "যখন তোমাদের রব ঘোষণা করলেন: যদি তোমরা শুকরিয়া আদায় কর, তবে আমি অবশ্যই তোমাদের (নেয়ামত) বাড়িয়ে দেব; আর যদি তোমরা অকৃতজ্ঞ হও, তবে নিশ্চয়ই আমার শাস্তি অত্যন্ত কঠোর",
+      "english": "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe'",
+      "reference": "Surah Ibrahim (14:7)"
+    },
+    {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِن طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَاشْكُرُوا لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "bangla": "হে মুমিনগণ! তোমাদেরকে যে পবিত্র রিযিক দান করেছি, তা থেকে আহার কর এবং আল্লাহর শুকরিয়া আদায় কর, যদি তোমরা তাঁরই ইবাদত কর",
+      "english": "O you who have believed, eat from the good things which We have provided for you and be grateful to Allah if it is [indeed] Him that you worship",
+      "reference": "Surah Al-Baqarah (2:172)"
+    },
+    {
+      "arabic": "وَاللَّهُ أَخْرَجَكُم مِّن بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ",
+      "bangla": "আল্লাহ তোমাদেরকে মাতৃগর্ভ থেকে বের করেছেন, যখন তোমরা কিছুই জানতে না। তিনি তোমাদেরকে দিয়েছেন কর্ণ, চক্ষু ও অন্তর, যাতে তোমরা কৃতজ্ঞতা প্রকাশ কর",
+      "english": "And Allah has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and hearts that perhaps you would be grateful",
+      "reference": "Surah An-Nahl (16:78)"
+    },
+    {
+      "arabic": "وَآيَةٌ لَّهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ * وَجَعَلْنَا فِيهَا جَنَّاتٍ مِّن نَّخِيلٍ وَأَعْنَابٍ وَفَجَّرْنَا فِيهَا مِنَ الْعُيُونِ * لِيَأْكُلُوا مِن ثَمَرِهِ وَمَا عَمِلَتْهُ أَيْدِيهِمْ ۖ أَفَلَا يَشْكُرُونَ",
+      "bangla": "তাদের জন্য একটি নিদর্শন মৃত পৃথিবী। আমি তাকে সঞ্জীবিত করি এবং তা থেকে শস্য উৎপন্ন করি, তা থেকে তারা আহার করে * আমি তাতে সৃষ্টি করেছি খেজুর ও আঙ্গুরের বাগান এবং প্রবাহিত করেছি প্রস্রবণ * যাতে তারা তার ফল থেকে আহার করে। তাদের হাত এগুলো সৃষ্টি করেনি। তাহলে তারা কি শুকরিয়া আদায় করবে না?",
+      "english": "And a sign for them is the dead earth. We have brought it to life and brought forth from it grain, and from it they eat * And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs * That they may eat of His fruit. And their hands have not produced it, so will they not be grateful?",
+      "reference": "Surah Ya-Sin (36:33-35)"
+    },
+    {
+      "arabic": "مَّا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَآمَنتُمْ ۚ وَكَانَ اللَّهُ شَاكِرًا عَلِيمًا",
+      "bangla": "যদি তোমরা শুকরিয়া আদায় কর ও বিশ্বাস স্থাপন কর, তবে আল্লাহ কেন তোমাদের শাস্তি দেবেন? আল্লাহ কৃতজ্ঞতাদানকারী, সর্বজ্ঞ",
+      "english": "Why would Allah punish you if you are grateful and believe? And Allah is Appreciative and Knowing",
+      "reference": "Surah An-Nisa (4:147)"
+    },
+    {
+      "arabic": "وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ",
+      "bangla": "আমি লুকমানকে প্রজ্ঞা দান করেছিলাম এই মর্মে যে, আল্লাহর শুকরিয়া আদায় কর। যে শুকরিয়া আদায় করে, সে নিজের জন্যই শুকরিয়া আদায় করে",
+      "english": "And We had certainly given Luqman wisdom [saying], 'Be grateful to Allah.' And whoever is grateful is grateful for [the benefit of] himself",
+      "reference": "Surah Luqman (31:12)"
+    },
+    {
+      "arabic": "وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ وَإِلَيْهِ يُرْجَعُ الْأَمْرُ كُلُّهُ فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ ۚ وَمَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "bangla": "আসমান ও যমীনের গায়েব আল্লাহরই কাছে এবং তাঁর কাছেই সব বিষয় ফিরে যাবে। অতএব, তুমি তাঁর ইবাদত কর এবং তাঁর উপর ভরসা কর। তোমার রব তোমরা যা কর, সে সম্বন্ধে গাফেল নন",
+      "english": "And to Allah belongs the unseen [aspects] of the heavens and the earth and to Him will be returned the matter, all of it, so worship Him and rely upon Him. And your Lord is not unaware of that which you do",
+      "reference": "Surah Hud (11:123)"
+    },
+    {
+      "arabic": "أَلَمْ تَرَوْا أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً",
+      "bangla": "তোমরা কি দেখ না যে, আল্লাহ আসমান ও যমীনে যা কিছু আছে, সবই তোমাদের অধীন করে দিয়েছেন এবং তোমাদের প্রতি তাঁর প্রকাশ্য ও অপ্রকাশ্য নিয়ামতসমূহ পূর্ণ করে দিয়েছেন?",
+      "english": "Do you not see that Allah has made subject to you whatever is in the heavens and whatever is in the earth and amply bestowed upon you His favors, [both] apparent and unapparent?",
+      "reference": "Surah Luqman (31:20)"
+    },
+    {
+      "arabic": "وَهُوَ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِبَاسًا وَالنَّوْمَ سُبَاتًا وَجَعَلَ النَّهَارَ نُشُورًا",
+      "bangla": "তিনিই তোমাদের জন্য রাত্রিকে করেছেন আবরণ, নিদ্রাকে করেছেন বিশ্রাম এবং দিনকে করেছেন পুনরুত্থান",
+      "english": "And it is He who has made the night for you as clothing and sleep [a means for] rest and has made the day a resurrection",
+      "reference": "Surah Al-Furqan (25:47)"
+    },
+    {
+      "arabic": "اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ ۖ وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِيَ فِي الْبَحْرِ بِأَمْرِهِ ۖ وَسَخَّرَ لَكُمُ الْأَنْهَارَ",
+      "bangla": "আল্লাহ, তিনি আসমান ও যমীন সৃষ্টি করেছেন এবং আকাশ থেকে পানি বর্ষণ করেছেন, অতঃপর তা দ্বারা তোমাদের রিযিকস্বরূপ ফল-ফসল উৎপাদন করেছেন। আর তোমাদের জন্য নৌযানকে নিয়োজিত করেছেন, যাতে সাগরে তাঁর হুকুমে চলতে পারে এবং তোমাদের জন্য নদীসমূহকে নিয়োজিত করেছেন",
+      "english": "Allah is the one who created the heavens and the earth and sent down rain from the sky and produced thereby some fruits as provision for you and subjected for you the ships to sail through the sea by His command and subjected for you the rivers",
+      "reference": "Surah Ibrahim (14:32)"
+    },
+    {
+      "arabic": "وَإِن تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا ۗ إِنَّ اللَّهَ لَغَفُورٌ رَّحِيمٌ",
+      "bangla": "আর যদি তোমরা আল্লাহর নেয়ামত গণনা কর, তবে তা গণনা করে শেষ করতে পারবে না। নিশ্চয়ই আল্লাহ ক্ষমাশীল, পরম দয়ালু",
+      "english": "And if you should count the favors of Allah, you could not enumerate them. Indeed, Allah is Forgiving and Merciful",
+      "reference": "Surah An-Nahl (16:18)"
+    },
+    {
+      "arabic": "فَابْتَغُوا عِندَ اللَّهِ الرِّزْقَ وَاعْبُدُوهُ وَاشْكُرُوا لَهُ ۖ إِلَيْهِ تُرْجَعُونَ",
+      "bangla": "অতএব, তোমরা আল্লাহর কাছে রিযিক তালাশ কর, তাঁর ইবাদত কর এবং তাঁর শুকরিয়া আদায় কর। তাঁর কাছেই তোমাদের ফিরে যেতে হবে",
+      "english": "So seek your provision from Allah and worship Him and be grateful to Him. To Him you will be returned",
+      "reference": "Surah Al-Ankabut (29:17)"
+    },
+    {
+      "arabic": "وَقَلِيلٌ مِّنْ عِبَادِيَ الشَّكُورُ",
+      "bangla": "আর আমার বান্দাদের মধ্যে অল্পই কৃতজ্ঞ",
+      "english": "And few of My servants are grateful",
+      "reference": "Surah Saba (34:13)"
+    },
+    {
+      "arabic": "وَلَقَدْ مَكَّنَّاكُمْ فِي الْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ ۗ قَلِيلًا مَّا تَشْكُرُونَ",
+      "bangla": "আমি তোমাদেরকে পৃথিবীতে প্রতিষ্ঠিত করেছি এবং তোমাদের জন্য তাতে জীবিকার উপকরণ সৃষ্টি করেছি; তোমরা খুব কমই শুকরিয়া আদায় কর",
+      "english": "And We have certainly established you upon the earth and made for you therein ways of living. Little are you grateful",
+      "reference": "Surah Al-A'raf (7:10)"
+    },
+    {
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "bangla": "নিশ্চয়ই এতে ধৈর্যশীল, কৃতজ্ঞ প্রত্যেকের জন্য নিদর্শনাবলী রয়েছে",
+      "english": "Indeed in that are signs for everyone patient and grateful",
+      "reference": "Surah Ibrahim (14:5)"
+    },
+    {
+      "arabic": "وَمَا بِكُم مِّن نِّعْمَةٍ فَمِنَ اللَّهِ",
+      "bangla": "তোমাদের উপর যে নিয়ামত আছে, তা আল্লাহর কাছ থেকেই",
+      "english": "And whatever you have of favor - it is from Allah",
+      "reference": "Surah An-Nahl (16:53)"
+    },
+    {
+      "arabic": "وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ وَمَا أَنزَلَ عَلَيْكُم مِّنَ الْكِتَابِ وَالْحِكْمَةِ يَعِظُكُم بِهِ",
+      "bangla": "আল্লাহ তোমাদের উপর যে নিয়ামত দান করেছেন এবং তোমাদের প্রতি যে কিতাব ও হিকমত নাযিল করেছেন, যার মাধ্যমে তিনি তোমাদেরকে উপদেশ দেন, তা স্মরণ কর",
+      "english": "And remember the favor of Allah upon you and what has been revealed to you of the Book and wisdom by which He instructs you",
+      "reference": "Surah Al-Baqarah (2:231)"
+    },
+    {
+      "arabic": "وَسَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "bangla": "আর তিনি আকাশমণ্ডলী ও পৃথিবীতে যা কিছু আছে, সবই তোমাদের কল্যাণে নিয়োজিত করেছেন। নিশ্চয়ই এতে চিন্তাশীল সম্প্রদায়ের জন্য নিদর্শনাবলী রয়েছে",
+      "english": "And He has subjected to you whatever is in the heavens and whatever is on the earth - all from Him. Indeed in that are signs for a people who give thought",
+      "reference": "Surah Al-Jathiya (45:13)"
+    }
+  ],
+  "halalrizq": [
+    {
+      "arabic": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ",
+      "bangla": "যে আল্লাহকে ভয় করে, আল্লাহ তার জন্যে উত্তরণের পথ বের করে দেন এবং তিনি তাকে এমন জায়গা থেকে রিযিক দেন যা সে কল্পনাও করে না",
+      "english": "And whoever fears Allah - He will make for him a way out and provide for him from where he does not expect",
+      "reference": "Surah At-Talaq (65:2-3)"
+    },
+    {
+      "arabic": "وَلَوْ أَنَّ أَهْلَ الْقُرَىٰ آمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِم بَرَكَاتٍ مِّنَ السَّمَاءِ وَالْأَرْضِ",
+      "bangla": "যদি জনপদের অধিবাসীরা ঈমান আনত এবং তাকওয়া অবলম্বন করত, তবে আমি তাদের জন্য আসমান ও জমিনের বারাকাহসমূহ উন্মুক্ত করে দিতাম",
+      "english": "And if only the people of the cities had believed and feared Allah, We would have opened upon them blessings from the heaven and the earth",
+      "reference": "Surah Al-A'raf (7:96)"
+    },
+    {
+      "arabic": "يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ",
+      "bangla": "হে মানুষ! পৃথিবীর হালাল পবিত্র বস্তুসমূহ আহার কর এবং শয়তানের পদাঙ্ক অনুসরণ করো না",
+      "english": "O mankind, eat from whatever is on earth [that is] lawful and good and do not follow the footsteps of Satan",
+      "reference": "Surah Al-Baqarah (2:168)"
+    },
+    {
+      "arabic": "فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا وَاشْكُرُوا نِعْمَتَ اللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "bangla": "অতএব, আল্লাহ তোমাদেরকে যে হালাল পবিত্র রিযিক দিয়েছেন তা থেকে আহার কর এবং আল্লাহর নেয়ামতের শুকরিয়া আদায় কর, যদি তোমরা তাঁরই ইবাদত কর",
+      "english": "So eat of what Allah has provided for you [which is] lawful and good. And be grateful for the favor of Allah, if it is [indeed] Him that you worship",
+      "reference": "Surah An-Nahl (16:114)"
+    },
+    {
+      "arabic": "وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ الدُّنْيَا",
+      "bangla": "আল্লাহ তোমাকে যা দিয়েছেন, তা দ্বারা পরকালের আবাস অনুসন্ধান কর, কিন্তু দুনিয়া থেকে তোমার অংশ ভুলো না",
+      "english": "But seek, through that which Allah has given you, the home of the Hereafter; and [yet], do not forget your share of the world",
+      "reference": "Surah Al-Qasas (28:77)"
+    },
+    {
+      "arabic": "وَمَا مِن دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا",
+      "bangla": "পৃথিবীতে বিচরণশীল সকল প্রাণীর রিযিকের দায়িত্ব আল্লাহর",
+      "english": "And there is no creature on earth but that upon Allah is its provision",
+      "reference": "Surah Hud (11:6)"
+    },
+    {
+      "arabic": "إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ ۚ إِنَّهُ كَانَ بِعِبَادِهِ خَبِيرًا بَصِيرًا",
+      "bangla": "নিশ্চয়ই তোমার রব যার জন্য ইচ্ছা রিযিক প্রশস্ত করেন এবং সংকুচিত করেন। তিনি তাঁর বান্দাদের সম্পর্কে সম্যক জ্ঞাত ও দ্রষ্টা",
+      "english": "Indeed, your Lord extends provision for whom He wills and restricts [it]. Indeed He is ever, concerning His servants, Acquainted and Seeing",
+      "reference": "Surah Al-Isra (17:30)"
+    },
+    {
+      "arabic": "قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا هُوَ مَوْلَانَا ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+      "bangla": "বলুন, আল্লাহ আমাদের জন্য যা লিখে রেখেছেন, তা ছাড়া অন্য কিছুই আমাদের স্পর্শ করবে না। তিনি আমাদের অভিভাবক। মুমিনদের আল্লাহর উপরই ভরসা করা উচিত",
+      "english": "Say, 'Never will we be struck except by what Allah has decreed for us; He is our protector.' And upon Allah let the believers rely",
+      "reference": "Surah At-Tawbah (9:51)"
+    },
+    {
+      "arabic": "وَمَا أَنفَقْتُم مِّن شَيْءٍ فَهُوَ يُخْلِفُهُ ۖ وَهُوَ خَيْرُ الرَّازِقِينَ",
+      "bangla": "তোমরা যা কিছু ব্যয় কর, তিনি তার বিনিময় দেবেন এবং তিনিই শ্রেষ্ঠ রিযিকদাতা",
+      "english": "And whatever you spend of anything, He will replace it. And He is the best of providers",
+      "reference": "Surah Saba (34:39)"
+    },
+    {
+      "arabic": "اللَّهُ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ لَهُ ۚ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "bangla": "আল্লাহ তাঁর বান্দাদের মধ্যে যার জন্য ইচ্ছা রিযিক প্রশস্ত করেন এবং যার জন্য ইচ্ছা সংকুচিত করেন। নিশ্চয়ই আল্লাহ সর্ববিষয়ে সম্যক জ্ঞাত",
+      "english": "Allah extends provision for whom He wills of His servants and restricts for him. Indeed Allah is, of all things, Knowing",
+      "reference": "Surah Al-Ankabut (29:62)"
+    },
+    {
+      "arabic": "وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ الَّتِي جَعَلَ اللَّهُ لَكُمْ قِيَامًا وَارْزُقُوهُمْ فِيهَا وَاكْسُوهُمْ وَقُولُوا لَهُمْ قَوْلًا مَّعْرُوفًا",
+      "bangla": "তোমরা নির্বোধদেরকে তোমাদের ঐ সমস্ত সম্পদ অর্পণ করো না, যা আল্লাহ তোমাদের জীবিকার উপকরণরূপে দিয়েছেন। তাদেরকে তা থেকে জীবিকা দান কর এবং পরিধান করাও এবং তাদেরকে সদ্বচন বল",
+      "english": "And do not give the weak-minded your property, which Allah has made a means of sustenance for you, but provide for them with it and clothe them and speak to them words of appropriate kindness",
+      "reference": "Surah An-Nisa (4:5)"
+    },
+    {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ",
+      "bangla": "হে মুমিনগণ! তোমরা যা উপার্জন করেছ এবং আমি ভূমি থেকে তোমাদের জন্য যা উৎপন্ন করেছি, তার মধ্যে থেকে উৎকৃষ্ট অংশ ব্যয় কর",
+      "english": "O you who have believed, spend from the good things which you have earned and from that which We have produced for you from the earth",
+      "reference": "Surah Al-Baqarah (2:267)"
+    },
+    {
+      "arabic": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+      "bangla": "যখন তোমাদের রব ঘোষণা করলেন: যদি তোমরা শুকরিয়া আদায় কর, তবে আমি অবশ্যই তোমাদের (নেয়ামত) বাড়িয়ে দেব",
+      "english": "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]'",
+      "reference": "Surah Ibrahim (14:7)"
+    },
+    {
+      "arabic": "وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا",
+      "bangla": "আল্লাহ ব্যবসাকে হালাল করেছেন এবং সুদকে হারাম করেছেন",
+      "english": "Allah has permitted trade and has forbidden interest",
+      "reference": "Surah Al-Baqarah (2:275)"
+    },
+    {
+      "arabic": "يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ",
+      "bangla": "আল্লাহ সুদকে নিশ্চিহ্ন করেন এবং সাদাকাহকে বৃদ্ধি করেন",
+      "english": "Allah destroys interest and gives increase for charities",
+      "reference": "Surah Al-Baqarah (2:276)"
+    },
+    {
+      "arabic": "وَلَا تَأْكُلُوا أَمْوَالَكُم بَيْنَكُم بِالْبَاطِلِ وَتُدْلُوا بِهَا إِلَى الْحُكَّامِ لِتَأْكُلُوا فَرِيقًا مِّنْ أَمْوَالِ النَّاسِ بِالْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+      "bangla": "তোমরা অন্যায়ভাবে একে অপরের সম্পদ ভক্ষণ করো না এবং জেনে শুনে মানুষের সম্পদের কিছু অংশ পাপাচারের মাধ্যমে ভক্ষণ করার জন্য তা বিচারকদের কাছে পেশ করো না",
+      "english": "And do not consume one another's wealth unjustly or send it [in bribery] to the rulers in order that [they might aid] you [to] consume a portion of the wealth of the people in sin, while you know [it is unlawful]",
+      "reference": "Surah Al-Baqarah (2:188)"
+    },
+    {
+      "arabic": "وَأَنكِحُوا الْأَيَامَىٰ مِنكُمْ وَالصَّالِحِينَ مِنْ عِبَادِكُمْ وَإِمَائِكُمْ ۚ إِن يَكُونُوا فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِن فَضْلِهِ",
+      "bangla": "তোমাদের মধ্যে যারা বিবাহহীন, তাদের বিবাহ সম্পাদন কর এবং তোমাদের দাস ও দাসীদের মধ্যে যারা সৎকর্মপরায়ণ, তাদেরও। তারা যদি নিঃস্ব হয়, আল্লাহ নিজ অনুগ্রহে তাদেরকে সচ্ছল করে দেবেন",
+      "english": "And marry the unmarried among you and the righteous among your male slaves and female slaves. If they should be poor, Allah will enrich them from His bounty",
+      "reference": "Surah An-Nur (24:32)"
+    },
+    {
+      "arabic": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مِنْ أَمْرِهِ يُسْرًا",
+      "bangla": "যে আল্লাহকে ভয় করে, আল্লাহ তার জন্য তার কাজ সহজ করে দেন",
+      "english": "And whoever fears Allah - He will make for him of his matter ease",
+      "reference": "Surah At-Talaq (65:4)"
+    },
+    {
+      "arabic": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ * مَا أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَا أُرِيدُ أَن يُطْعِمُونِ * إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+      "bangla": "আমি জিন ও মানুষকে কেবল আমার ইবাদতের জন্য সৃষ্টি করেছি * আমি তাদের কাছে রিযিক চাই না এবং চাই না যে তারা আমাকে আহার দেবে * নিশ্চয়ই আল্লাহই রিযিকদাতা, শক্তিশালী, পরাক্রমশালী",
+      "english": "And I did not create the jinn and mankind except to worship Me * I do not want from them any provision, nor do I want that they should feed Me * Indeed, it is Allah who is the [continual] Provider, the firm possessor of strength",
+      "reference": "Surah Adh-Dhariyat (51:56-58)"
+    },
+    {
+      "arabic": "قُلْ إِنَّ رَبِّي يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "bangla": "বলুন, আমার রব যার জন্য ইচ্ছা রিযিক প্রশস্ত করেন এবং সংকুচিত করেন, কিন্তু অধিকাংশ মানুষ জানে না",
+      "english": "Say, 'Indeed, my Lord extends provision for whom He wills and restricts [it], but most of the people do not know'",
+      "reference": "Surah Saba (34:36)"
+    },
+    {
+      "arabic": "وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً كَانَتْ آمِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ اللَّهِ فَأَذَاقَهَا اللَّهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا كَانُوا يَصْنَعُونَ",
+      "bangla": "আল্লাহ একটি জনপদের উদাহরণ পেশ করেছেন, যা ছিল নিরাপদ ও শান্ত, সর্বত্র থেকে তার কাছে রিযিক আসত প্রচুর পরিমাণে। অতঃপর তারা আল্লাহর নেয়ামতের অকৃতজ্ঞতা প্রকাশ করল। ফলে তাদের কৃতকর্মের কারণে আল্লাহ তাদেরকে ক্ষুধা ও ভয়ের কাপড়ের স্বাদ আস্বাদন করালেন",
+      "english": "And Allah presents an example: a city which was secure and peaceful, its provision coming to it in abundance from every location, but it denied the favors of Allah. So Allah made it taste the envelopment of hunger and fear for what they had been doing",
+      "reference": "Surah An-Nahl (16:112)"
+    },
+    {
+      "arabic": "وَمَا أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلَّا إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الْأَسْوَاقِ",
+      "bangla": "আমি আপনার পূর্বে যত রাসূল প্রেরণ করেছি, তারা সবাই আহার করতেন এবং বাজারে চলাফেরা করতেন",
+      "english": "And We did not send before you, [O Muhammad], any of the messengers except that they ate food and walked in the markets",
+      "reference": "Surah Al-Furqan (25:20)"
+    },
+    {
+      "arabic": "هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا وَكُلُوا مِن رِّزْقِهِ",
+      "bangla": "তিনিই তোমাদের জন্য পৃথিবীকে সুগম করেছেন, অতএব তোমরা এর দিক-দিগন্তে বিচরণ কর এবং তাঁর রিযিক থেকে আহার কর",
+      "english": "It is He who made the earth tame for you - so walk among its slopes and eat of His provision",
+      "reference": "Surah Al-Mulk (67:15)"
+    }
+  ]
+}
