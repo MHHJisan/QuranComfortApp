@@ -1,9 +1,10 @@
+// DuasScreen.js
 import React, { useState } from "react";
 import { View, ScrollView, StyleSheet, Text } from "react-native";
 import { Appbar, useTheme, IconButton } from "react-native-paper";
 import EmotionButton from "../components/EmotionButton";
-import VerseCarousel from "../components/VerseCarousel";
-import versesData from "../data/verses.json";
+import VerseCarousel from "../components/VerseCarousel"; // Reusing for duas
+import duasData from "../data/duas.json"; // Create this file
 import { shuffleArray } from "../utils/shuffle";
 
 const emotions = [
@@ -34,38 +35,32 @@ const emotionColors = {
   "Halal Rizq": "#5D4037",
 };
 
-const HomeScreen = () => {
+const DuasScreen = () => {
   const { colors } = useTheme();
-  const [currentVerses, setCurrentVerses] = useState(null);
+  const [currentDuas, setCurrentDuas] = useState(null);
   const [currentEmotion, setCurrentEmotion] = useState(null);
 
   const handleEmotionPress = (emotion) => {
     const key = emotion.toLowerCase().replace(/\s+/g, "");
 
-    if (versesData[key] && versesData[key].length > 0) {
-      const shuffledVerses = shuffleArray(versesData[key]);
-      setCurrentVerses(shuffledVerses);
+    if (duasData[key] && duasData[key].length > 0) {
+      const shuffledDuas = shuffleArray(duasData[key]);
+      setCurrentDuas(shuffledDuas);
       setCurrentEmotion(emotion);
     } else {
-      const fallbackVerse = [
+      const fallbackDua = [
         {
-          arabic: "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ",
-          bangla: "আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই",
-          english: "Allah - there is no deity except Him",
-          reference: "Surah Al-Baqarah (2:255)",
+          arabic:
+            "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+          bangla:
+            "হে আমাদের রব! আমাদের দুনিয়াতে কল্যাণ দান করুন এবং আখিরাতেও কল্যাণ দান করুন, এবং আমাদেরকে জাহান্নামের শাস্তি থেকে রক্ষা করুন",
+          english:
+            "Our Lord! Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!",
+          reference: "Surah Al-Baqarah (2:201)",
         },
       ];
-      setCurrentVerses(fallbackVerse);
+      setCurrentDuas(fallbackDua);
       setCurrentEmotion(emotion);
-    }
-  };
-
-  const handleRandomPress = () => {
-    if (currentVerses && currentVerses.length > 0) {
-      // In a real implementation, this would trigger a random verse
-      // For now, let's just reshuffle the verses
-      const reshuffledVerses = shuffleArray([...currentVerses]);
-      setCurrentVerses(reshuffledVerses);
     }
   };
 
@@ -73,17 +68,9 @@ const HomeScreen = () => {
     <View style={[styles.container, { backgroundColor: colors.background }]}>
       <Appbar.Header>
         <Appbar.Content
-          title="Quranic Comfort"
+          title="Dua Comfort"
           titleStyle={{ fontSize: 20, fontWeight: "bold" }}
         />
-        {currentEmotion && (
-          <IconButton
-            icon="shuffle"
-            size={24}
-            onPress={handleRandomPress}
-            color="#2e7d32"
-          />
-        )}
       </Appbar.Header>
 
       <ScrollView
@@ -117,17 +104,17 @@ const HomeScreen = () => {
           </Text>
         )}
 
-        {currentVerses ? (
-          <VerseCarousel verses={currentVerses} />
+        {currentDuas ? (
+          <VerseCarousel verses={currentDuas} />
         ) : (
           <Text style={[styles.placeholder, { color: colors.text }]}>
-            Select an emotion to see relevant Quranic verses
+            Select an emotion to see relevant Duas
           </Text>
         )}
 
-        {currentVerses && (
+        {currentDuas && (
           <Text style={[styles.swipeHint, { color: colors.text }]}>
-            Swipe left or right to see more verses
+            Swipe left or right to see more Duas
           </Text>
         )}
       </ScrollView>
@@ -176,4 +163,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default HomeScreen;
+export default DuasScreen;

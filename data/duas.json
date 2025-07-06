@@ -1,0 +1,33 @@
+// data/duas.json
+{
+  "happy": [
+    {
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ فِعْلَ الْخَيْرَاتِ",
+      "bangla": "হে আল্লাহ! আমি আপনার কাছে নেক কাজের তওফিক চাই",
+      "english": "O Allah, I ask You for the ability to do good deeds",
+      "reference": "General Dua"
+    },
+    {
+      "arabic": "رَبِّ زِدْنِي عِلْمًا",
+      "bangla": "হে আমার রব! আমার জ্ঞান বৃদ্ধি করুন",
+      "english": "My Lord, increase me in knowledge",
+      "reference": "Surah Taha (20:114)"
+    }
+  ],
+  "anxious": [
+    {
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحُزْنِ",
+      "bangla": "হে আল্লাহ! আমি আপনার কাছে দুশ্চিন্তা ও দুঃখ থেকে আশ্রয় চাই",
+      "english": "O Allah, I seek refuge in You from anxiety and sorrow",
+      "reference": "Sahih Bukhari"
+    }
+  ],
+  "depressed": [
+    {
+      "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "bangla": "আপনি ছাড়া কোন ইলাহ নেই, আপনি পবিত্র, নিশ্চয় আমি জালিমদের অন্তর্ভুক্ত",
+      "english": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers",
+      "reference": "Surah Al-Anbiya (21:87)"
+    }
+  ]
+}
