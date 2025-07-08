@@ -1,10 +1,15 @@
-import React, { useState } from "react";
-import { View, ScrollView, StyleSheet, Text } from "react-native";
-import { Appbar, useTheme, IconButton } from "react-native-paper";
-import EmotionButton from "../components/EmotionButton";
-import VerseCarousel from "../components/VerseCarousel";
+import React, { useState, useEffect } from "react";
+import {
+  View,
+  Text,
+  StyleSheet,
+  TouchableOpacity,
+  Modal,
+  TouchableWithoutFeedback,
+} from "react-native";
+import { Smile, Shuffle, X } from "lucide-react-native";
 import versesData from "../data/verses.json";
-import { shuffleArray } from "../utils/shuffle";
+import VerseCarousel from "../components/VerseCarousel"; // adjust path if needed
 
 const emotions = [
   "Happy",
@@ -21,116 +26,102 @@ const emotions = [
 ];
 
 const emotionColors = {
-  Happy: "#43A047",
-  Forgiveness: "#7B1FA2",
-  Anxious: "#FB8C00",
-  Depressed: "#E64A19",
-  Lonely: "#1976D2",
-  Comfort: "#0097A7",
+  Happy: "#4CAF50",
+  Forgiveness: "#9C27B0",
+  Anxious: "#FF9800",
+  Depressed: "#F44336",
+  Lonely: "#2196F3",
+  Comfort: "#00BCD4",
   Angry: "#D32F2F",
-  Motivational: "#FDD835",
-  Sad: "#455A64",
-  Thankful: "#7CB342",
-  "Halal Rizq": "#5D4037",
+  Motivational: "#FFC107",
+  Sad: "#607D8B",
+  Thankful: "#8BC34A",
+  "Halal Rizq": "#795548",
 };
 
+const shuffleArray = (array) => [...array].sort(() => Math.random() - 0.5);
+
 const HomeScreen = () => {
-  const { colors } = useTheme();
-  const [currentVerses, setCurrentVerses] = useState(null);
-  const [currentEmotion, setCurrentEmotion] = useState(null);
+  const [currentEmotion, setCurrentEmotion] = useState("Happy");
+  const [shuffledVerses, setShuffledVerses] = useState([]);
+  const [showEmotionModal, setShowEmotionModal] = useState(false);
 
-  const handleEmotionPress = (emotion) => {
+  const loadEmotionContent = (emotion) => {
     const key = emotion.toLowerCase().replace(/\s+/g, "");
-
-    if (versesData[key] && versesData[key].length > 0) {
-      const shuffledVerses = shuffleArray(versesData[key]);
-      setCurrentVerses(shuffledVerses);
-      setCurrentEmotion(emotion);
-    } else {
-      const fallbackVerse = [
-        {
-          arabic: "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ",
-          bangla: "আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই",
-          english: "Allah - there is no deity except Him",
-          reference: "Surah Al-Baqarah (2:255)",
-        },
-      ];
-      setCurrentVerses(fallbackVerse);
-      setCurrentEmotion(emotion);
-    }
+    const verseList = versesData[key] || [];
+    const shuffled = shuffleArray(verseList);
+    setCurrentEmotion(emotion);
+    setShuffledVerses(shuffled);
   };
 
-  const handleRandomPress = () => {
-    if (currentVerses && currentVerses.length > 0) {
-      // In a real implementation, this would trigger a random verse
-      // For now, let's just reshuffle the verses
-      const reshuffledVerses = shuffleArray([...currentVerses]);
-      setCurrentVerses(reshuffledVerses);
-    }
+  useEffect(() => {
+    loadEmotionContent("Happy");
+  }, []);
+
+  const handleEmotionSelect = (emotion) => {
+    loadEmotionContent(emotion);
+    setShowEmotionModal(false);
   };
 
   return (
-    <View style={[styles.container, { backgroundColor: colors.background }]}>
-      <Appbar.Header>
-        <Appbar.Content
-          title="Quranic Comfort"
-          titleStyle={{ fontSize: 20, fontWeight: "bold" }}
-        />
-        {currentEmotion && (
-          <IconButton
-            icon="shuffle"
-            size={24}
-            onPress={handleRandomPress}
-            color="#2e7d32"
-          />
-        )}
-      </Appbar.Header>
+    <View style={styles.container}>
+      {/* Header */}
+      <View style={styles.header}>
+        <Text style={styles.title}>Quranic Comfort</Text>
+        <TouchableOpacity onPress={() => loadEmotionContent(currentEmotion)}>
+          <Shuffle size={24} color="#1D4ED8" />
+        </TouchableOpacity>
+      </View>
 
-      <ScrollView
-        contentContainerStyle={styles.scrollContainer}
-        showsVerticalScrollIndicator={false}
+      {/* Floating Emotion Icon */}
+      <TouchableOpacity
+        onPress={() => setShowEmotionModal(true)}
+        style={styles.emotionFAB}
       >
-        <Text style={[styles.title, { color: colors.text }]}>
-          How are you feeling today?
+        <Smile size={28} color="#fff" />
+      </TouchableOpacity>
+
+      {/* Main Content */}
+      <View style={styles.content}>
+        <Text
+          style={[styles.emotionText, { color: emotionColors[currentEmotion] }]}
+        >
+          {currentEmotion}
         </Text>
 
-        <View style={styles.buttonContainer}>
-          {emotions.map((emotion) => (
-            <EmotionButton
-              key={emotion}
-              emotion={emotion}
-              color={emotionColors[emotion]}
-              onPress={handleEmotionPress}
-              isActive={currentEmotion === emotion}
-            />
-          ))}
-        </View>
+        {/* 🌀 Swipeable Verse Carousel */}
+        <VerseCarousel verses={shuffledVerses} />
 
-        {currentEmotion && (
-          <Text
-            style={[
-              styles.selectedEmotion,
-              { color: emotionColors[currentEmotion] },
-            ]}
-          >
-            {currentEmotion}
-          </Text>
-        )}
+        <Text style={styles.swipeText}>Swipe or press shuffle to see more</Text>
+      </View>
 
-        {currentVerses ? (
-          <VerseCarousel verses={currentVerses} />
-        ) : (
-          <Text style={[styles.placeholder, { color: colors.text }]}>
-            Select an emotion to see relevant Quranic verses
-          </Text>
-        )}
-
-        {currentVerses && (
-          <Text style={[styles.swipeHint, { color: colors.text }]}>
-            Swipe left or right to see more verses
-          </Text>
-        )}
-      </ScrollView>
+      {/* Emotion Modal */}
+      <Modal visible={showEmotionModal} transparent animationType="fade">
+        <TouchableWithoutFeedback onPress={() => setShowEmotionModal(false)}>
+          <View style={styles.modalOverlay}>
+            <View style={styles.modalContent}>
+              <View style={styles.modalHeader}>
+                <Text style={styles.modalTitle}>Choose Emotion</Text>
+                <TouchableOpacity onPress={() => setShowEmotionModal(false)}>
+                  <X size={20} color="#000" />
+                </TouchableOpacity>
+              </View>
+              {emotions.map((emotion) => (
+                <TouchableOpacity
+                  key={emotion}
+                  onPress={() => handleEmotionSelect(emotion)}
+                  style={[
+                    styles.emotionButton,
+                    { backgroundColor: emotionColors[emotion] },
+                  ]}
+                >
+                  <Text style={styles.buttonText}>{emotion}</Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        </TouchableWithoutFeedback>
+      </Modal>
     </View>
   );
 };
@@ -138,41 +129,81 @@ const HomeScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: "#F3F4F6",
   },
-  scrollContainer: {
-    padding: 16,
+  header: {
+    backgroundColor: "white",
+    padding: 12,
+    flexDirection: "row",
     alignItems: "center",
-    paddingBottom: 30,
+    justifyContent: "space-between",
+    elevation: 2,
   },
   title: {
+    fontSize: 18,
+    fontWeight: "bold",
+    color: "#1F2937",
+  },
+  content: {
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center",
+    padding: 20,
+  },
+  emotionText: {
     fontSize: 22,
     fontWeight: "bold",
-    marginBottom: 20,
-    textAlign: "center",
+    marginBottom: 10,
   },
-  buttonContainer: {
-    flexDirection: "row",
-    flexWrap: "wrap",
-    justifyContent: "center",
-    marginBottom: 20,
-  },
-  placeholder: {
-    fontSize: 16,
-    marginTop: 50,
-    textAlign: "center",
+  swipeText: {
+    fontSize: 12,
     fontStyle: "italic",
-  },
-  selectedEmotion: {
-    fontSize: 20,
-    fontWeight: "bold",
-    marginVertical: 10,
-    textAlign: "center",
-  },
-  swipeHint: {
-    fontSize: 14,
+    color: "#6B7280",
     marginTop: 10,
-    fontStyle: "italic",
-    color: "#666",
+  },
+  emotionFAB: {
+    position: "absolute",
+    top: 120,
+    left: 16,
+    backgroundColor: "#4CAF50",
+    borderRadius: 30,
+    padding: 12,
+    elevation: 6,
+    zIndex: 10,
+  },
+  modalOverlay: {
+    flex: 1,
+    backgroundColor: "rgba(0,0,0,0.3)",
+    justifyContent: "center",
+    paddingHorizontal: 30,
+  },
+  modalContent: {
+    backgroundColor: "#fff",
+    borderRadius: 12,
+    padding: 20,
+    maxHeight: "80%",
+  },
+  modalHeader: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
+    marginBottom: 12,
+  },
+  modalTitle: {
+    fontSize: 18,
+    fontWeight: "bold",
+    color: "#1F2937",
+  },
+  emotionButton: {
+    paddingVertical: 10,
+    paddingHorizontal: 14,
+    borderRadius: 20,
+    marginBottom: 8,
+    alignItems: "center",
+  },
+  buttonText: {
+    color: "#fff",
+    fontWeight: "bold",
   },
 });
 

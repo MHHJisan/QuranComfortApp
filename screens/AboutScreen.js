@@ -75,11 +75,11 @@ const AboutScreen = () => {
           We welcome your feedback and suggestions. Please email us at:
         </Text>
         <Text style={[styles.email, { color: colors.primary }]}>
-          support@quraniccomfort.app
+          support@techraverse.com
         </Text>
 
         <Text style={[styles.footer, { color: colors.text }]}>
-          © 2023 Quranic Comfort App. All rights reserved.
+          © 2021 techraverse. All rights reserved.
         </Text>
       </ScrollView>
     </View>

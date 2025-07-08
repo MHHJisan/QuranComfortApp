@@ -1,11 +1,15 @@
-// DuasScreen.js
-import React, { useState } from "react";
-import { View, ScrollView, StyleSheet, Text } from "react-native";
-import { Appbar, useTheme, IconButton } from "react-native-paper";
-import EmotionButton from "../components/EmotionButton";
-import VerseCarousel from "../components/VerseCarousel"; // Reusing for duas
-import duasData from "../data/duas.json"; // Create this file
-import { shuffleArray } from "../utils/shuffle";
+import React, { useState, useEffect } from "react";
+import {
+  View,
+  Text,
+  StyleSheet,
+  TouchableOpacity,
+  Modal,
+  TouchableWithoutFeedback,
+} from "react-native";
+import { Wand, Shuffle, X } from "lucide-react-native"; // Replaced Smile with Wand
+import duasData from "../data/duas.json";
+import VerseCarousel from "../components/VerseCarousel";
 
 const emotions = [
   "Happy",
@@ -22,102 +26,101 @@ const emotions = [
 ];
 
 const emotionColors = {
-  Happy: "#43A047",
-  Forgiveness: "#7B1FA2",
-  Anxious: "#FB8C00",
-  Depressed: "#E64A19",
-  Lonely: "#1976D2",
-  Comfort: "#0097A7",
+  Happy: "#4CAF50",
+  Forgiveness: "#9C27B0",
+  Anxious: "#FF9800",
+  Depressed: "#F44336",
+  Lonely: "#2196F3",
+  Comfort: "#00BCD4",
   Angry: "#D32F2F",
-  Motivational: "#FDD835",
-  Sad: "#455A64",
-  Thankful: "#7CB342",
-  "Halal Rizq": "#5D4037",
+  Motivational: "#FFC107",
+  Sad: "#607D8B",
+  Thankful: "#8BC34A",
+  "Halal Rizq": "#795548",
 };
 
-const DuasScreen = () => {
-  const { colors } = useTheme();
-  const [currentDuas, setCurrentDuas] = useState(null);
-  const [currentEmotion, setCurrentEmotion] = useState(null);
+const shuffleArray = (array) => [...array].sort(() => Math.random() - 0.5);
 
-  const handleEmotionPress = (emotion) => {
+const HomeScreen = () => {
+  const [currentEmotion, setCurrentEmotion] = useState("Happy");
+  const [shuffledVerses, setShuffledVerses] = useState([]);
+  const [showEmotionModal, setShowEmotionModal] = useState(false);
+
+  const loadEmotionContent = (emotion) => {
     const key = emotion.toLowerCase().replace(/\s+/g, "");
+    const verseList = duasData[key] || [];
+    const shuffled = shuffleArray(verseList);
+    setCurrentEmotion(emotion);
+    setShuffledVerses(shuffled);
+  };
 
-    if (duasData[key] && duasData[key].length > 0) {
-      const shuffledDuas = shuffleArray(duasData[key]);
-      setCurrentDuas(shuffledDuas);
-      setCurrentEmotion(emotion);
-    } else {
-      const fallbackDua = [
-        {
-          arabic:
-            "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
-          bangla:
-            "হে আমাদের রব! আমাদের দুনিয়াতে কল্যাণ দান করুন এবং আখিরাতেও কল্যাণ দান করুন, এবং আমাদেরকে জাহান্নামের শাস্তি থেকে রক্ষা করুন",
-          english:
-            "Our Lord! Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!",
-          reference: "Surah Al-Baqarah (2:201)",
-        },
-      ];
-      setCurrentDuas(fallbackDua);
-      setCurrentEmotion(emotion);
-    }
+  useEffect(() => {
+    loadEmotionContent("Happy");
+  }, []);
+
+  const handleEmotionSelect = (emotion) => {
+    loadEmotionContent(emotion);
+    setShowEmotionModal(false);
   };
 
   return (
-    <View style={[styles.container, { backgroundColor: colors.background }]}>
-      <Appbar.Header>
-        <Appbar.Content
-          title="Dua Comfort"
-          titleStyle={{ fontSize: 20, fontWeight: "bold" }}
-        />
-      </Appbar.Header>
+    <View style={styles.container}>
+      {/* Header */}
+      <View style={styles.header}>
+        <Text style={styles.title}>Quranic Comfort</Text>
+        <TouchableOpacity onPress={() => loadEmotionContent(currentEmotion)}>
+          <Shuffle size={24} color="#1D4ED8" />
+        </TouchableOpacity>
+      </View>
 
-      <ScrollView
-        contentContainerStyle={styles.scrollContainer}
-        showsVerticalScrollIndicator={false}
+      {/* Floating Emotion Icon (Right Side) */}
+      <TouchableOpacity
+        onPress={() => setShowEmotionModal(true)}
+        style={styles.emotionFAB}
       >
-        <Text style={[styles.title, { color: colors.text }]}>
-          How are you feeling today?
+        <Wand size={28} color="#fff" />
+      </TouchableOpacity>
+
+      {/* Main Content */}
+      <View style={styles.content}>
+        <Text
+          style={[styles.emotionText, { color: emotionColors[currentEmotion] }]}
+        >
+          {currentEmotion}
         </Text>
 
-        <View style={styles.buttonContainer}>
-          {emotions.map((emotion) => (
-            <EmotionButton
-              key={emotion}
-              emotion={emotion}
-              color={emotionColors[emotion]}
-              onPress={handleEmotionPress}
-              isActive={currentEmotion === emotion}
-            />
-          ))}
-        </View>
+        <VerseCarousel verses={shuffledVerses} />
 
-        {currentEmotion && (
-          <Text
-            style={[
-              styles.selectedEmotion,
-              { color: emotionColors[currentEmotion] },
-            ]}
-          >
-            {currentEmotion}
-          </Text>
-        )}
+        <Text style={styles.swipeText}>Swipe or press shuffle to see more</Text>
+      </View>
 
-        {currentDuas ? (
-          <VerseCarousel verses={currentDuas} />
-        ) : (
-          <Text style={[styles.placeholder, { color: colors.text }]}>
-            Select an emotion to see relevant Duas
-          </Text>
-        )}
-
-        {currentDuas && (
-          <Text style={[styles.swipeHint, { color: colors.text }]}>
-            Swipe left or right to see more Duas
-          </Text>
-        )}
-      </ScrollView>
+      {/* Emotion Modal (Left-Aligned) */}
+      <Modal visible={showEmotionModal} transparent animationType="fade">
+        <TouchableWithoutFeedback onPress={() => setShowEmotionModal(false)}>
+          <View style={styles.modalOverlay}>
+            <View style={styles.modalLeftContent}>
+              <View style={styles.modalHeader}>
+                <Text style={styles.modalTitle}>Choose Emotion</Text>
+                <TouchableOpacity onPress={() => setShowEmotionModal(false)}>
+                  <X size={20} color="#000" />
+                </TouchableOpacity>
+              </View>
+              {emotions.map((emotion) => (
+                <TouchableOpacity
+                  key={emotion}
+                  onPress={() => handleEmotionSelect(emotion)}
+                  style={[
+                    styles.emotionButton,
+                    { backgroundColor: emotionColors[emotion] },
+                  ]}
+                >
+                  <Text style={styles.buttonText}>{emotion}</Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        </TouchableWithoutFeedback>
+      </Modal>
     </View>
   );
 };
@@ -125,42 +128,89 @@ const DuasScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: "#F3F4F6",
   },
-  scrollContainer: {
-    padding: 16,
+  header: {
+    backgroundColor: "white",
+    padding: 12,
+    flexDirection: "row",
     alignItems: "center",
-    paddingBottom: 30,
+    justifyContent: "space-between",
+    elevation: 2,
   },
   title: {
+    fontSize: 18,
+    fontWeight: "bold",
+    color: "#1F2937",
+  },
+  content: {
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center",
+    padding: 20,
+  },
+  emotionText: {
     fontSize: 22,
     fontWeight: "bold",
-    marginBottom: 20,
-    textAlign: "center",
+    marginBottom: 10,
   },
-  buttonContainer: {
-    flexDirection: "row",
-    flexWrap: "wrap",
-    justifyContent: "center",
-    marginBottom: 20,
-  },
-  placeholder: {
-    fontSize: 16,
-    marginTop: 50,
-    textAlign: "center",
+  swipeText: {
+    fontSize: 12,
     fontStyle: "italic",
-  },
-  selectedEmotion: {
-    fontSize: 20,
-    fontWeight: "bold",
-    marginVertical: 10,
-    textAlign: "center",
-  },
-  swipeHint: {
-    fontSize: 14,
+    color: "#6B7280",
     marginTop: 10,
-    fontStyle: "italic",
-    color: "#666",
+  },
+
+  // Changed position to right
+  emotionFAB: {
+    position: "absolute",
+    top: 120,
+    right: 16,
+    backgroundColor: "#4CAF50",
+    borderRadius: 30,
+    padding: 12,
+    elevation: 6,
+    zIndex: 10,
+  },
+
+  // Modal on left side
+  modalOverlay: {
+    flex: 1,
+    flexDirection: "row",
+    justifyContent: "flex-start",
+    alignItems: "center",
+    backgroundColor: "rgba(0,0,0,0.3)",
+  },
+  modalLeftContent: {
+    backgroundColor: "#fff",
+    borderRadius: 12,
+    padding: 20,
+    marginLeft: 20,
+    maxHeight: "80%",
+    width: 200,
+  },
+  modalHeader: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
+    marginBottom: 12,
+  },
+  modalTitle: {
+    fontSize: 18,
+    fontWeight: "bold",
+    color: "#1F2937",
+  },
+  emotionButton: {
+    paddingVertical: 10,
+    paddingHorizontal: 14,
+    borderRadius: 20,
+    marginBottom: 8,
+    alignItems: "center",
+  },
+  buttonText: {
+    color: "#fff",
+    fontWeight: "bold",
   },
 });
 
-export default DuasScreen;
+export default HomeScreen;
