@@ -107,13 +107,13 @@ const VerseCarousel = ({ verses }) => {
         <VerseCard verse={displayedVerses[currentIndex]} />
       </Animated.View>
 
-      <IconButton
+      {/* <IconButton
         icon="shuffle"
         size={30}
         onPress={getRandomVerse}
         style={styles.shuffleButton}
         color="#2e7d32"
-      />
+      /> */}
 
       <View style={styles.pagination}>
         {displayedVerses.map((_, index) => (
@@ -132,6 +132,7 @@ const styles = StyleSheet.create({
     width: width - 32,
     marginVertical: 20,
     alignItems: "center",
+    // backgroundColor: "#F3F4F6",
   },
   cardContainer: {
     width: "100%",

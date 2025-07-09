@@ -67,10 +67,10 @@ const HomeScreen = () => {
     <View style={styles.container}>
       {/* Header */}
       <View style={styles.header}>
-        <Text style={styles.title}>Quranic Comfort</Text>
-        <TouchableOpacity onPress={() => loadEmotionContent(currentEmotion)}>
+        {/* <Text style={styles.title}>Quranic Comfort</Text> */}
+        {/* <TouchableOpacity onPress={() => loadEmotionContent(currentEmotion)}>
           <Shuffle size={24} color="#1D4ED8" />
-        </TouchableOpacity>
+        </TouchableOpacity> */}
       </View>
 
       {/* Floating Emotion Icon */}
@@ -83,16 +83,20 @@ const HomeScreen = () => {
 
       {/* Main Content */}
       <View style={styles.content}>
-        <Text
-          style={[styles.emotionText, { color: emotionColors[currentEmotion] }]}
+        <View
+          style={[
+            styles.coloredBox,
+            { backgroundColor: emotionColors[currentEmotion] }, // light tint
+          ]}
         >
-          {currentEmotion}
-        </Text>
+          <Text style={[styles.emotionText]}>{currentEmotion}</Text>
 
-        {/* 🌀 Swipeable Verse Carousel */}
-        <VerseCarousel verses={shuffledVerses} />
+          <VerseCarousel verses={shuffledVerses} />
 
-        <Text style={styles.swipeText}>Swipe or press shuffle to see more</Text>
+          <Text style={styles.swipeText}>
+            Swipe or press shuffle to see more
+          </Text>
+        </View>
       </View>
 
       {/* Emotion Modal */}
@@ -150,6 +154,14 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     padding: 20,
   },
+  coloredBox: {
+    width: "100%",
+    borderRadius: 16,
+    padding: 16,
+    alignItems: "center",
+    justifyContent: "center",
+  },
+
   emotionText: {
     fontSize: 22,
     fontWeight: "bold",

@@ -7,7 +7,7 @@ import {
   Modal,
   TouchableWithoutFeedback,
 } from "react-native";
-import { Wand, Shuffle, X } from "lucide-react-native"; // Replaced Smile with Wand
+import { Wand, Shuffle, X } from "lucide-react-native";
 import duasData from "../data/duas.json";
 import VerseCarousel from "../components/VerseCarousel";
 
@@ -64,16 +64,21 @@ const HomeScreen = () => {
   };
 
   return (
-    <View style={styles.container}>
+    <View
+      style={[
+        styles.container,
+        { backgroundColor: emotionColors[currentEmotion] },
+      ]}
+    >
       {/* Header */}
-      <View style={styles.header}>
+      {/* <View style={styles.header}>
         <Text style={styles.title}>Quranic Comfort</Text>
         <TouchableOpacity onPress={() => loadEmotionContent(currentEmotion)}>
           <Shuffle size={24} color="#1D4ED8" />
         </TouchableOpacity>
-      </View>
+      </View> */}
 
-      {/* Floating Emotion Icon (Right Side) */}
+      {/* Floating Emotion Icon */}
       <TouchableOpacity
         onPress={() => setShowEmotionModal(true)}
         style={styles.emotionFAB}
@@ -81,24 +86,29 @@ const HomeScreen = () => {
         <Wand size={28} color="#fff" />
       </TouchableOpacity>
 
-      {/* Main Content */}
-      <View style={styles.content}>
-        <Text
-          style={[styles.emotionText, { color: emotionColors[currentEmotion] }]}
+      {/* Centered Emotion Section */}
+      <View style={styles.contentWrapper}>
+        <View
+          style={[
+            styles.emotionSection,
+            { backgroundColor: emotionColors[currentEmotion] },
+          ]}
         >
-          {currentEmotion}
-        </Text>
+          <Text style={[styles.emotionText]}>{currentEmotion}</Text>
 
-        <VerseCarousel verses={shuffledVerses} />
+          <VerseCarousel verses={shuffledVerses} />
 
-        <Text style={styles.swipeText}>Swipe or press shuffle to see more</Text>
+          <Text style={[styles.swipeText, { color: "#f1f1f1" }]}>
+            Swipe to see more
+          </Text>
+        </View>
       </View>
 
-      {/* Emotion Modal (Left-Aligned) */}
+      {/* Emotion Modal */}
       <Modal visible={showEmotionModal} transparent animationType="fade">
         <TouchableWithoutFeedback onPress={() => setShowEmotionModal(false)}>
           <View style={styles.modalOverlay}>
-            <View style={styles.modalLeftContent}>
+            <View style={styles.modalRightContent}>
               <View style={styles.modalHeader}>
                 <Text style={styles.modalTitle}>Choose Emotion</Text>
                 <TouchableOpacity onPress={() => setShowEmotionModal(false)}>
@@ -128,7 +138,7 @@ const HomeScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#F3F4F6",
+    backgroundColor: "#ffffff",
   },
   header: {
     backgroundColor: "white",
@@ -143,11 +153,18 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     color: "#1F2937",
   },
-  content: {
+  contentWrapper: {
     flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+    paddingHorizontal: 16,
+  },
+  emotionSection: {
+    width: "100%",
+    borderRadius: 16,
+    padding: 16,
     alignItems: "center",
     justifyContent: "center",
-    padding: 20,
   },
   emotionText: {
     fontSize: 22,
@@ -157,11 +174,9 @@ const styles = StyleSheet.create({
   swipeText: {
     fontSize: 12,
     fontStyle: "italic",
-    color: "#6B7280",
     marginTop: 10,
+    color: "#6B7280",
   },
-
-  // Changed position to right
   emotionFAB: {
     position: "absolute",
     top: 120,
@@ -172,20 +187,18 @@ const styles = StyleSheet.create({
     elevation: 6,
     zIndex: 10,
   },
-
-  // Modal on left side
   modalOverlay: {
     flex: 1,
     flexDirection: "row",
-    justifyContent: "flex-start",
+    justifyContent: "flex-end",
     alignItems: "center",
     backgroundColor: "rgba(0,0,0,0.3)",
   },
-  modalLeftContent: {
+  modalRightContent: {
     backgroundColor: "#fff",
     borderRadius: 12,
     padding: 20,
-    marginLeft: 20,
+    marginRight: 20,
     maxHeight: "80%",
     width: 200,
   },
